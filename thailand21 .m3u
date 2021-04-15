@@ -165,14 +165,12 @@ https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
 https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://dltv.ac.th/upload/data/channels/08_channel_logo.png",DLTV8 มัธยมศึกษาปีที่ 2
 https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
-#EXTINF:-1 group-title="Digital.TV" tvg-logo="https://dltv.ac.th/upload/data/channels/09_channel_logo.png",DLTV9 มัธยมศึกษาปีที่ 3
 #EXTINF:-1 tvg-id="49" tvg-logo-small="http://thaiip.tv/tvlogo2/mty4.png" tvg-logo="http://thaiip.tv/tvlogo2/mty4.png" tvg-chno="49" group-title="Thailand" tvg-name="มัธยมศึกษาปีที่4",มัธยมศึกษาปีที่4
 https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-logo-small="http://thaiip.tv/tvlogo2/mty5.png" tvg-logo="http://thaiip.tv/tvlogo2/mty5.png" tvg-chno="50" group-title="Thailand" tvg-name="มัธยมศึกษาปีที่5",มัธยมศึกษาปีที่5
 https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-logo-small="http://thaiip.tv/tvlogo2/mty6.png" tvg-logo="http://thaiip.tv/tvlogo2/mty6.png" tvg-chno="51" group-title="Thailand" tvg-name="มัธยมศึกษาปีที่6",มัธยมศึกษาปีที่6
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
-https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://dltv.ac.th/upload/data/channels/10_channel_logo.png",DLTV10 อนุบาลศึกษาปีที่ 1
 https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://dltv.ac.th/upload/data/channels/11_channel_logo.png",DLTV11 อนุบาลศึกษาปีที่ 2
@@ -187,10 +185,8 @@ https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
 #EXTINF:-1 group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/3/35/ETV_Logo.jpg",ETV SD
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ทรูสปอร์ต เอชดี" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065433.jpg",true Sport HD1
 https://doofootball.livestream-cdn.com/iptv/hd-tsport1.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ทรูสปอร์ต เอชดี 2" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065618.jpg",true Sport HD2
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="ทรูสปอร์ต เอชดี 3" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-065510.jpg",true Sport HD3
