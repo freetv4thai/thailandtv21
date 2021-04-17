@@ -71,7 +71,6 @@ https://amarin-ks7jcc.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access
 http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
 #EXTINF:-1 tvg-id="36" tvg-logo-small="http://thaiip.tv/tvlogo2/36.png" tvg-logo="http://thaiip.tv/tvlogo2/36.png" tvg-chno="36" group-title="THAI Digital TV" tvg-name="PPTV",PPTV HD
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/pptv_480p/chunks.m3u8
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/pptv_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="37" tvg-logo-small="http://thaiip.tv/tvlogo2/anu1.png" tvg-logo="http://thaiip.tv/tvlogo2/anu1.png" tvg-chno="37" group-title="THAI Digital TV" tvg-name="อนุบาล1",อนุบาล1
 https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-logo-small="http://thaiip.tv/tvlogo2/anu2.png" tvg-logo="http://thaiip.tv/tvlogo2/anu2.png" tvg-chno="38" group-title="THAI Digital TV" tvg-name="อนุบาล2",อนุบาล2
@@ -261,8 +260,8 @@ http://live2.dootvde.com/live/50022_one_hd.stream.smil/playist.m3u8
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/workpointtv_480p/playlist.m3u8
 #EXTINF:-1  tvg-id="Workpoint" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074753.jpg",Workpoint
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
-#EXTINF:-1  tvg-id="Mono 29" group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
-https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:-1  tvg-id="Mono 29" group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29(สำรอง)
+https://p1.cdn.vet/live/ch38/i/ch38i.m3u8?sid=bjeNzVkMGZkNDQ2ZWU2MWE0MThmMwMjFkOGFmYzlkZjAyZDUz
 #EXTINF:-1  tvg-id="Mono 29" group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-013103.jpg",ALTV4
