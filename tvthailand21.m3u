@@ -30,11 +30,11 @@ https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w896738527.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="http://thaiip.tv/tvlogo2/ctb.png" group-title="THAI Digital TV" tvg-name="CTB",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 tvg-id="16" tvg-logo-small="http://thaiip.tv/tvlogo2/16.png" tvg-logo="http://thaiip.tv/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN",TNN 16 HD
-https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_1024p/index.m3u8
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo-small="http://thaiip.tv/tvlogo2/m.png" tvg-logo="http://thaiip.tv/tvlogo2/m.png" tvg-chno="17" group-title="THAI Digital TV" tvg-name="M Channel",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo-small="http://thaiip.tv/tvlogo2/new.png" tvg-logo="http://thaiip.tv/tvlogo2/new.png" tvg-chno="18" group-title="THAI Digital TV" tvg-name="NEW18",NEW18
-https://stream-05.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54xCbLWSkd1GbY0ewDTmb7DM)/dm/3/x7kx5i7/s/live-3.m3u8
+http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="19" tvg-logo-small="http://thaiip.tv/tvlogo2/sabai.png" tvg-logo="http://thaiip.tv/tvlogo2/sabai.png" tvg-chno="19" group-title="THAI Digital TV" tvg-name="สบายดีทีวี",SABAIDEE TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo-small="http://thaiip.tv/tvlogo2/voicetv.png" tvg-logo="http://thaiip.tv/tvlogo2/voicetv.png" tvg-chno="20" group-title="THAI Digital TV" tvg-name="Voice TV",Voice TV
@@ -46,7 +46,7 @@ http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo-small="http://thaiip.tv/tvlogo2/23.png" tvg-logo="http://thaiip.tv/tvlogo2/23.png" tvg-chno="23" group-title="THAI Digital TV" tvg-name="WORK POINT",WORK POINT 23
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="24" tvg-logo-small="http://thaiip.tv/tvlogo2/24.png" tvg-logo="http://thaiip.tv/tvlogo2/24.png" tvg-chno="24" group-title="THAI Digital TV" tvg-name="True4u",True4u 24
-https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="25" tvg-logo-small="http://thaiip.tv/tvlogo2/25.png" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-chno="25" group-title="THAI Digital TV" tvg-name="GMM25",GMM25 Channel
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/gmm25_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="26" tvg-logo-small="http://thaiip.tv/tvlogo2/cartoonclub.png" tvg-logo="http://thaiip.tv/tvlogo2/cartoonclub.png" tvg-chno="26" group-title="THAI Digital TV" tvg-name="CARTOON CLUB",CARTOON CLUB
@@ -211,9 +211,7 @@ http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 #EXTINF:-1  tvg-id="Amarin TV" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/amarintv_480p/playlist.m3u8
 #EXTINF:-1  tvg-id="True 4U" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074707.jpg",true4U
-https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
-#EXTINF:-1  tvg-id="True 4U" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074707.jpg",true4U
-https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
+https://cdn701.stm.trueid.net/live10/207_th_w_auto_true4u.smil/chunklist_w1227108913_b2787392.m3u8?appid=true4u&visitor=web&uid=yzk81k0unt&did=dDVpeHFqcXVoNA&mpass=vzS0Oq8RNKQL%2FnCUaXUXUxn4tp3go3VwYoIVowSzysh5hpFcpKZ4cbWlHEkbU6QUcrntaJVh4OKB%2Bsk1guQtXTo6ixmV%2BcqLziEGDZQQXJCWDg%3D%3D&type=live&sid=494f0648e5&rt=1618809974&tk=txnJUcQ_QHjYZnO4xxli4YBbxUf3989ZSg7igGXEs38
 #EXTINF:-1  tvg-id="CH8" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074848.jpg",CH8
 http://stream.rs.co.th/ch8-hi/index.m3u8
 #EXTINF:-1  tvg-id="CH8" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074848.jpg",CH8
