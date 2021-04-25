@@ -39,8 +39,6 @@ https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-Ey3bNoUeNXRO9gmp
 http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo-small="http://thaiip.tv/tvlogo2/voicetv.png" tvg-logo="http://thaiip.tv/tvlogo2/voicetv.png" tvg-chno="20" group-title="THAI Digital TV" tvg-name="Voice TV",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="21" tvg-logo-small="http://thaiip.tv/tvlogo2/top.png" tvg-logo="http://thaiip.tv/tvlogo2/top.png" tvg-chno="21" group-title="THAI Digital TV" tvg-name="Top News",Top News
-https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-id="22" tvg-logo-small="http://thaiip.tv/tvlogo2/22.png" tvg-logo="http://thaiip.tv/tvlogo2/22.png" tvg-chno="22" group-title="THAI Digital TV" tvg-name="NATION TV",NATION TV 22
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo-small="http://thaiip.tv/tvlogo2/23.png" tvg-logo="http://thaiip.tv/tvlogo2/23.png" tvg-chno="23" group-title="THAI Digital TV" tvg-name="WORK POINT",WORK POINT 23
@@ -152,7 +150,7 @@ http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/chunklist_w633022784.m3u8
 #EXTINF:-1 tvg-id="76" tvg-logo-small="http://thaiip.tv/tvlogo2/voicetv.png" tvg-logo="http://thaiip.tv/tvlogo2/voicetv.png" tvg-chno="76" group-title="Thailand" tvg-name="VoiceTV",VoiceTV
 https://video-weaver.bkk01.hls.ttvnw.net/v1/playlist/CpcF3JiKdke6ziyCg_UPqCcQPDyoLn5PArv-X3YjgvZ81lV6ZrXWGXA4u5yApfI_rzbUtqsdBqwRNweRKIEBKrYUKdzx4u6BTtZWma59By0kNw1XYLXouJxLkHDfXFU13Xfva8sKeeGXYxnwvI_3maqOxPwSP7v9iyUH3EDJD43MFnjoccH3b30z_i2utEc4di1mqqhIwJMStwBIkSMojqW1RN7WUsnxsN-r86g5BTLQDsJa20_pKWOSQ_JTAHVfQ9gYE_9f7lerdvkPJhOQklQynCAQGL4OzUyh_XP8PA2dIyRb_u8FnKdEyeMyTEx9TsVLX1g669hFRvO1hG2saw1ZxZlbsBFwSGuikQkymrBxEqETcyNieGv1DD4cYaxXzvIFH_fcADJok-rQi5bgOKb21x8gv05IHtsvHGKjYSFvjtFSLcLhERhLqqIIyVNOWtZv0zEbYanraWQZXHniXH4TdO09XNlE7UE2CqvJr6W17tnDHydijbkYb9ubPo_TzYwxfQDFypFLB0VbrjyWtsrLQPYXOfwGm-hf1Rf0ciXcxGZwMr8XUaBLH64_xb-TE95W-k7kVbv7Z-QIk7RcovVUBHnp5WXUjxJ798uoXPKOv7sb9WgmO2u5MNVAF09lfnLjTZdDCTq3OLBqt897MFELW_ixZwz0IqnCYynE2aGXo9hV-qfOQ6f7RXjq7dZ4xiadkdQE3fwUBEM_EuzXClORemhu2uDi6zX0DMLG2VpR1qqtABXq0AgKmnt_umrIGTdZtfSn1h425J3qWr1hakX48Zm4o-TayrwR9DSoUfwZLbBhRR4AEhsJ8wVIb0wWjo5_o_rfYdb_2UmP951QGyU9gPLLpYw-EY32q9p6O-Ho99-RsHPy2wJEEhB68qdXFKcbwKaD1qg5MfBBGgxckj-IAYmVguHPmZA.m3u8
-#EXTINF:-1 tvg-id="77" tvg-logo-small="http://thaiip.tv/tvlogo2/top.png" tvg-logo="http://thaiip.tv/tvlogo2/top.png" tvg-chno="77" group-title="Thailand" tvg-name="TOP NEWS",TOP NEWS
+#EXTINF:-1 tvg-id="77" tvg-logo-small="http://thaiip.tv/tvlogo2/top.png" tvg-logo="http://thaiip.tv/tvlogo2/top.png" tvg-chno="77" group-title="THAI Digital TV" tvg-name="Top News",Top News
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-id="78" tvg-logo-small="http://thaiip.tv/tvlogo2/news1.png" tvg-logo="http://thaiip.tv/tvlogo2/news1.png" tvg-chno="78" group-title="Thailand" tvg-name="News1",News1
 http://news1.live14.com/stream/news1_hi.m3u8
