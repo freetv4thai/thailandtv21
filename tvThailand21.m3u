@@ -39,6 +39,8 @@ https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54-Ey3bNoUeNXRO9gmp
 http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo-small="http://thaiip.tv/tvlogo2/voicetv.png" tvg-logo="http://thaiip.tv/tvlogo2/voicetv.png" tvg-chno="20" group-title="THAI Digital TV" tvg-name="Voice TV",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-112504.jpg",Amazing Show
+http://203.154.243.32:8088/live/amazing/index.m3u8
 #EXTINF:-1 tvg-id="22" tvg-logo-small="http://thaiip.tv/tvlogo2/22.png" tvg-logo="http://thaiip.tv/tvlogo2/22.png" tvg-chno="22" group-title="THAI Digital TV" tvg-name="NATION TV",NATION TV 22
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo-small="http://thaiip.tv/tvlogo2/23.png" tvg-logo="http://thaiip.tv/tvlogo2/23.png" tvg-chno="23" group-title="THAI Digital TV" tvg-name="WORK POINT",WORK POINT 23
