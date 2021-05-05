@@ -149,6 +149,8 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="75" tvg-logo-small="http://thaiip.tv/tvlogo2/v2h9.png" tvg-logo="http://thaiip.tv/tvlogo2/v2h9.png" tvg-chno="75" group-title="Thailand" tvg-name="v2h9",v2h9
 https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/chunklist_w633022784.m3u8
+#EXTINF:-1 tvg-id="76" tvg-logo="IMAGES" group-title="Documentary",Discovery Asia (TH)
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 tvg-id="77" tvg-logo-small="http://thaiip.tv/tvlogo2/top.png" tvg-logo="http://thaiip.tv/tvlogo2/top.png" tvg-chno="77" group-title="Thailand" tvg-name="TOP NEWS",TOP NEWS
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-id="78" tvg-logo-small="http://thaiip.tv/tvlogo2/news1.png" tvg-logo="http://thaiip.tv/tvlogo2/news1.png" tvg-chno="78" group-title="Thailand" tvg-name="News1",News1
@@ -189,7 +191,7 @@ http://160.119.77.116:8081/iptv/uk-chelseatv.stream/playlist.m3u8
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u10
 #EXTINF:-1 tvg-id="96" tvg-logo-small="http://thaiip.tv/tvlogo2/golf.png" tvg-logo="http://thaiip.tv/tvlogo2/golf.png" tvg-chno="96" group-title="International" tvg-name="Golf channel",Golf channel
 https://doofootball.livestream-cdn.com/iptv/hd-golf.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="IMAGES" group-title="Discovery",Discovery Asia (TH)
+#EXTINF:-1 tvg-logo="IMAGES" group-title="Documentary",Discovery Asia (TH)
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-02-01-084935.jpg",TOPNEWS
 https://live.topnews.co.th/hls/topnews.m3u8
