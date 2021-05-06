@@ -142,14 +142,14 @@ https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="71" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2021-01-06-104450.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104450.jpg" tvg-chno="71" group-title="International" tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
 http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="72" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg" tvg-chno="72" group-title="International" tvg-name="Discovery Asia",Discovery Asia
-https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 tvg-id="73" tvg-logo-small="http://thaiip.tv/tvlogo2/outdoor.jpg" tvg-logo="http://thaiip.tv/tvlogo2/outdoor.jpg" tvg-chno="73" group-title="International" tvg-name="OUTDOOR(JP)",OUTDOOR(JP)
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2020-11-03-015921.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-015921.jpg" tvg-chno="74" group-title="Thailand" tvg-name="PSI SARADEE(สาระดี)",PSI SARADEE(สาระดี)
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="75" tvg-logo-small="http://thaiip.tv/tvlogo2/v2h9.png" tvg-logo="http://thaiip.tv/tvlogo2/v2h9.png" tvg-chno="75" group-title="Thailand" tvg-name="v2h9",v2h9
 https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/chunklist_w633022784.m3u8
-#EXTINF:-1 tvg-id="76" tvg-logo="IMAGES" group-title="Documentary",Discovery Asia (TH)
+#EXTINF:-1 tvg-id="76" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg" group-title="Thailand",Discovery Asia (TH)
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 tvg-id="77" tvg-logo-small="http://thaiip.tv/tvlogo2/top.png" tvg-logo="http://thaiip.tv/tvlogo2/top.png" tvg-chno="77" group-title="Thailand" tvg-name="TOP NEWS",TOP NEWS
 https://live.topnews.co.th/hls/topnews.m3u8
@@ -191,8 +191,6 @@ http://160.119.77.116:8081/iptv/uk-chelseatv.stream/playlist.m3u8
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u10
 #EXTINF:-1 tvg-id="96" tvg-logo-small="http://thaiip.tv/tvlogo2/golf.png" tvg-logo="http://thaiip.tv/tvlogo2/golf.png" tvg-chno="96" group-title="International" tvg-name="Golf channel",Golf channel
 https://doofootball.livestream-cdn.com/iptv/hd-golf.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="IMAGES" group-title="Documentary",Discovery Asia (TH)
-https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-02-01-084935.jpg",TOPNEWS
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1  tvg-id="TNN16" group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
