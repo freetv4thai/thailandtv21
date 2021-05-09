@@ -230,7 +230,7 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/workpointtv_480p/pl
 #EXTINF:-1  tvg-id="Workpoint" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074753.jpg",Workpoint
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 #EXTINF:-1  tvg-id="Mono 29" group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
-https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+https://p0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=bjeNGNmMGIzZmFjNzhlOTAwOTAyNAOWVkNjgxMmViMjEyNTg0
 #EXTINF:-1  tvg-id="Mono 29" group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-013103.jpg",ALTV4
