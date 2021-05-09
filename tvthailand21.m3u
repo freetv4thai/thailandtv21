@@ -53,8 +53,8 @@ https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="27" tvg-logo-small="http://thaiip.tv/tvlogo2/27.png" tvg-logo="http://thaiip.tv/tvlogo2/27.png" tvg-chno="27" group-title="THAI Digital TV" tvg-name="ช่อง 8",Channel 8 กดช่อง 27
 http://stream.rs.co.th/ch8-hi/index.m3u8
-#EXTINF:-1  tvg-id="28" tvg-logo-small="http://thaiip.tv/tvlogo2/boom.png" tvg-logo="http://thaiip.tv/tvlogo2/boom.png" tvg-chno="28" group-title="THAI Digital TV" tvg-name="Boomerang",Boomerang
-http://160.119.77.117/iptv/sd-boomerang.stream/chunks.m3u8
+#EXTINF:-1  tvg-id="28" tvg-logo-small="http://thaiip.tv/tvlogo2/boom.png" tvg-logo="http://thaiip.tv/tvlogo2/boom.png" tvg-chno="28" group-title="THAI Digital TV" tvg-name="Boomerang",Boomerang.Th
+https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-logo-small="http://thaiip.tv/tvlogo2/29.png" tvg-logo="http://thaiip.tv/tvlogo2/29.png" tvg-chno="29" group-title="THAI Digital TV" tvg-name="Mono29",MONO29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 #EXTINF:-1 tvg-id="30" tvg-logo-small="http://thaiip.tv/tvlogo2/30.png" tvg-logo="http://thaiip.tv/tvlogo2/30.png" tvg-chno="30" group-title="THAI Digital TV" tvg-name="MCOT HD 30",MCOT HD 30
