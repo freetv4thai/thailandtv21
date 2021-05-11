@@ -24,7 +24,7 @@ http://live.boonniyom.tv:1935/live/bntvsd/playlist.m3u8
 #EXTINF:-1 tvg-id="12" tvg-chno="12" tvg-logo="http://thaiip.tv/tvlogo2/news1.png" group-title="THAI Digital TV" tvg-name="News1" ,News1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-id="13" group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/bluesky.png",ฟ้าวันใหม่
-https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w562158773.m3u8
+http://202.142.220.226:1935/bluesky/Livebluesky/chunklist_w2111545574.m3u8
 #EXTINF:-1 tvg-id="14" tvg-chno="14" tvg-logo="http://thaiip.tv/tvlogo2/mvtv.png" group-title="THAI Digital TV" tvg-name="MVTV",MVTV
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w896738527.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="http://thaiip.tv/tvlogo2/ctb.png" group-title="THAI Digital TV" tvg-name="CTB",CTB
@@ -171,8 +171,8 @@ http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="86" tvg-logo-small="http://thaiip.tv/tvlogo2/jkn.png" tvg-logo="http://thaiip.tv/tvlogo2/jkn.png" tvg-chno="86" group-title="Entertainment" tvg-name="JKN",JKN
 https://5f27aa1f6ef91.streamlock.net/jkndramax/myStream/chunklist_w2066613617.m3u8
-#EXTINF:-1 tvg-id="87" tvg-logo-small="http://thaiip.tv/tvlogo2/foxthai.png" tvg-logo="http://thaiip.tv/tvlogo2/foxthai.png" tvg-chno="87" group-title="Entertainment" tvg-name="Fox Thai",Fox Thai
-https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8
+#EXTINF:-1 tvg-id="87" tvg-logo-small="http://thaiip.tv/tvlogo2/foxthai.png" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075841.jpg",Fox Thai(ไทย)
+https://smart-tv.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="88" tvg-logo-small="http://thaiip.tv/tvlogo2/m.png" tvg-logo="http://thaiip.tv/tvlogo2/m.png" tvg-chno="88" group-title="Entertainment" tvg-name="M channel",M channel
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
 #EXTINF:-1 tvg-id="89" tvg-logo-small="http://thaiip.tv/tvlogo2/toonee.png" tvg-logo="http://thaiip.tv/tvlogo2/toonee.png" tvg-chno="89" group-title="Kids" tvg-name="toonee",toonee
@@ -201,8 +201,8 @@ https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 #EXTINF:-1  tvg-id="PPTV HD" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",PPTV
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
-#EXTINF:-1  tvg-id="Nation TV" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/nation_480p/playlist.m3u8
+#EXTINF:-1  tvg-id="Animal Planet" group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-27-073833.jpg",ANIMAL PLANET
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1  tvg-id="Nation TV" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 #EXTINF:-1  tvg-id="Amarin TV" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
@@ -339,8 +339,6 @@ https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1  tvg-id="TH - FSPHD" group-title="Sports" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602703682.jpeg",FOX​ Sports​ HD
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-27-073833.jpg",ANIMAL PLANET
-https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1  tvg-id="FOX Sports" group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",Fox Sports 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-id="FOX Sports" group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",!Fox Sports 1(English)
