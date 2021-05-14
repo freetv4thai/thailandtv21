@@ -70,7 +70,7 @@ http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="35" tvg-logo-small="http://thaiip.tv/tvlogo2/35.png" tvg-logo="http://thaiip.tv/tvlogo2/35.png" tvg-chno="35" group-title="THAI Digital TV" tvg-name="ช่อง7สี",THAI 7HD
 http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
 #EXTINF:-1 tvg-id="36" tvg-logo-small="http://thaiip.tv/tvlogo2/36.png" tvg-logo="http://thaiip.tv/tvlogo2/36.png" tvg-chno="36" group-title="THAI Digital TV" tvg-name="PPTV",PPTV HD
-https://pptv36-1tsjfj.cdn.byteark.com/live/pl_1080p/index.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1620942001&x_ark_path_prefix=%2Flive%2F&x_ark_signature=Hr7bxG3H_HftnADmuDZlew
+https://live-cdn.allhilight.com/abr_live/pptv/live/pptv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="37" tvg-logo-small="http://thaiip.tv/tvlogo2/anu1.png" tvg-logo="http://thaiip.tv/tvlogo2/anu1.png" tvg-chno="37" group-title="THAI Digital TV" tvg-name="อนุบาล1",อนุบาล1
 https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-logo-small="http://thaiip.tv/tvlogo2/anu2.png" tvg-logo="http://thaiip.tv/tvlogo2/anu2.png" tvg-chno="38" group-title="THAI Digital TV" tvg-name="อนุบาล2",อนุบาล2
@@ -198,7 +198,7 @@ https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
 #EXTINF:-1  tvg-id="NEW TV 18" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",NEW 18
 https://cdn6.goprimetime.info/feed/newtv/index.m3u8
 #EXTINF:-1  tvg-id="PPTV HD" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",PPTV สำรอง
-https://cdn769.stm.trueid.net/live3/da7_w_auto_tidapp.smil/chunklist_w1393468728_b2537779_vo_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&uid=576aa6e10e&did=MTYyMDkyMjMyOA&mpass=SJzPzUGmfMqYpdxO0eN42Ii-mnG5EKO3u9QWM-K2S7lI6HSYj0hbvdYKbKDzshNM0jwf_ldt-HueQ4RZHqPo-8qI4oxVAEFvumH9Ta78-pA6OsBWq9gGs-5f-boAKZW2r48&sid=e58283cad5&rt=1620922327&tk=6X-E24niRsUFTANgBBxki4PLKrGGDvV_9FDrzmIkEa4
+https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=bjeNTE1ZDc4ZmE0NzI0ZjQ2ZTA2NwNzkzOWJlMjAzYzM4Zjk3
 #EXTINF:-1  tvg-id="Animal Planet" group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-27-073833.jpg",ANIMAL PLANET
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1  tvg-id="Nation TV" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
