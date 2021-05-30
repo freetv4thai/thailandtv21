@@ -1,0 +1,1077 @@
+#EXTM3U
+##Playlist version 3.0
+##Playlist update 15-05-21
+
+#</001-049_Thailand Channel/>
+#EXTINF:0 tvg-chno="001" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oRDeIR.md.png" group-title="Thailand Channel",5 HD
+## DirectLink
+http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist_w821471000.m3u8
+## OtherLink
+#http://27.254.130.61/live01/ch6.m3u8?p=st
+
+#EXTINF:0 tvg-chno="002" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6EzZ.md.png" group-title="Thailand Channel",NBT HD
+## DirectLink
+https://thainews.prd.go.th/lv/live/ch1_L.sdp/chunklist_w525823488.m3u8
+## OtherLink
+#http://27.254.130.61/live01/ch14.m3u8?p=st
+
+#EXTINF:0 tvg-chno="003" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6o1e.md.png" group-title="Thailand Channel",ThaiPBS HD
+## DirectLink
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+## OtherLink
+#http://27.254.130.61/live02/ch0.m3u8?p=st
+
+#EXTINF:0 tvg-chno="004" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6VKg.md.png" group-title="Thailand Channel",ALTV HD
+## DirectLink
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="010" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR62OE.md.png" group-title="Thailand Channel",TPTV
+## DirectLink
+http://live.parliament.go.th/livestream/encoder3/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="016" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6Aek.md.png" group-title="Thailand Channel",TNN 24
+## DirectLink
+#http://
+## OtherLink
+http://27.254.130.61/live01/ch5.m3u8?p=st
+
+#EXTINF:0 tvg-chno="018" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png" group-title="Thailand Channel",JKN TV
+## DirectLink
+http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="022" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6qXu.md.png" group-title="Thailand Channel",Nation TV
+## DirectLink
+#https://
+## OtherLink
+http://27.254.130.61/live01/ch8.m3u8?p=st
+
+#EXTINF:0 tvg-chno="023" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6CaN.md.png" group-title="Thailand Channel",Workpoint
+## DirectLink
+#https://
+## OtherLink
+http://27.254.130.61/live01/ch7.m3u8?p=st
+
+#EXTINF:0 tvg-chno="024" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6skv.md.png" group-title="Thailand Channel",True 4U
+## DirectLink
+#http://
+## OtherLink
+http://203.154.243.32:23028
+
+#EXTINF:0 tvg-chno="025" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6rnS.md.png" group-title="Thailand Channel",GMM 25
+## DirectLink
+#http://
+## OtherLink
+http://27.254.130.61/live01/ch11.m3u8?p=st
+
+#EXTINF:0 tvg-chno="027" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6XPW.md.png" group-title="Thailand Channel",CH 8
+## DirectLink
+http://stream.rs.co.th/ch8-hi/index.m3u8
+## OtherLink
+#http://27.254.130.61/live02/ch2.m3u8?p=st
+
+#EXTINF:0 tvg-chno="029" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR66zV.md.png" group-title="Thailand Channel",MONO 29
+## DirectLink
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1021782105.m3u8
+## OtherLink
+#http://27.254.130.61/live01/ch3.m3u8?p=st
+
+#EXTINF:0 tvg-chno="030" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6nxQ.md.png" group-title="Thailand Channel",MCOT HD
+## DirectLink
+#http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+## OtherLink
+http://27.254.130.56:80/live01/ch12.m3u8
+
+#EXTINF:0 tvg-chno="031" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6b6P.md.png" group-title="Thailand Channel",One HD
+## DirectLink
+#https://one31-rlbwkq.cdn.byteark.com/live/playlist_240p/index.m3u8
+## OtherLink
+http://27.254.130.61/live01/ch10.m3u8?p=st
+#EXTINF:0 tvg-chno="021" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR2v30.md.png" group-title="Thailand Channel",TOP NEWS
+## DirectLink
+https://live.topnews.co.th/hls/topnews.m3u8
+
+#EXTINF:0 tvg-chno="032" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6DAl.md.png" group-title="Thailand Channel",Thairath TV HD
+## DirectLink
+https://live.thairath.co.th/trtv2/playlist.m3u8
+## OtherLink
+#http://27.254.130.61/live01/ch9.m3u8?p=st
+
+#EXTINF:0 tvg-chno="033" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6v31.md.png" group-title="Thailand Channel",3 HD
+## DirectLink
+#https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1615654450&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=IHoOrjWgueDDvvrKNCjfhg
+## OtherLink
+http://27.254.130.61/live01/ch0.m3u8?p=st
+
+#EXTINF:0 tvg-chno="034" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6HWn.md.png" group-title="Thailand Channel",Amarin HD
+## DirectLink
+#https://stream-04.sg1.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW5NcCKvjAPEmH4iLd19cax4)/dm/3/x7z8zsu/s/live-2.m3u8
+## OtherLink
+http://27.254.130.61/live01/ch13.m3u8?p=st
+
+#EXTINF:0 tvg-chno="035" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6ae2.md.png" group-title="Thailand Channel",7 HD
+## DirectLink
+#https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_2/chunklist.m3u8
+## OtherLink
+http://27.254.130.61/live01/ch1.m3u8?p=st
+
+#EXTINF:0 tvg-chno="036" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6lWt.md.png" group-title="Thailand Channel",PPTV HD
+## DirectLink
+#https://pptv36-1tsjfj.cdn.byteark.com/live/pl_1080p/index.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1615645801&x_ark_path_prefix=%2Flive%2F&x_ark_signature=g-U5TiruAz1j5sbpI1QXpQ
+## OtherLink
+http://27.254.130.61/live01/ch2.m3u8?p=st
+
+
+#</050-069_Education Channel/>
+#EXTINF:0 tvg-chno="050" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxr1ee.md.png" group-title="Education Channel",DLTV 10
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="051" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxrZ3l.md.png" group-title="Education Channel",DLTV 11
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="052" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxrcbk.md.png" group-title="Education Channel",DLTV 12
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="053" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oRVR51.md.png" group-title="Education Channel",DLTV 1
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="054" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oRVif2.md.png" group-title="Education Channel",DLTV 2
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="055" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oRVxHy.md.png" group-title="Education Channel",DLTV 3
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="056" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oRVUSD.md.png" group-title="Education Channel",DLTV 4
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="057" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oRVqi9.md.png" group-title="Education Channel",DLTV 5
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="058" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxr3nZ.md.png" group-title="Education Channel",DLTV 6
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="059" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxrTWI.md.png" group-title="Education Channel",DLTV 7
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="060" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxrtKP.md.png" group-title="Education Channel",DLTV 8
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="061" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxrwPt.md.png" group-title="Education Channel",DLTV 9
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="062" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxrgav.md.png" group-title="Education Channel",DLTV 13
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="063" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxrR4E.md.png" group-title="Education Channel",DLTV 14
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="064" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxrqdQ.md.png" group-title="Education Channel",DLTV 15
+## DirectLink
+https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="065" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxrQnV.md.png" group-title="Education Channel",ETV
+## DirectLink
+#http://
+## OtherLink
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+
+
+#</070-149_ThaiSat Channel/>
+#EXTINF:0 tvg-chno="070" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxV5ZZ.md.png" group-title="ThaiSat Channel",True PlookPanYa
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="075" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxmWne.md.png" group-title="ThaiSat Channel",NEWS 1
+## DirectLink
+http://news1.live14.com/stream/news1_hi.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="076" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxeyaI.md.png" group-title="ThaiSat Channel",Bluesky TV
+## DirectLink
+https://5f0a709b4c40f.streamlock.net/blueskychannel/blueskychannel/chunklist_w562158773.m3u8
+## OtherLink tvg-logo="http://thaiip.tv/tvlogo2/bluesky.png",ฟ้าวันใหม่
+
+#EXTINF:0 tvg-chno="077" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR2v30.md.png" group-title="ThaiSat Channel",TOP NEWS
+## DirectLink
+https://live.topnews.co.th/hls/topnews.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="078" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxee3u.md.png" group-title="ThaiSat Channel",Voice TV
+## DirectLink
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="079" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxm0dl.md.png" group-title="ThaiSat Channel",Police TV
+## DirectLink
+#http://
+## OtherLink
+https://cdn-th-vip.login.in.th/policetv/policetv/chunklist_w837590154.m3u8
+
+#EXTINF:0 tvg-chno="080" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/18/ob9l3l.md.png" group-title="ThaiSat Channel",RTAF Channel (Test OnAir)
+## DirectLink
+http://rec-stream.rtaf.live/edge-1552452909/smil:live-1553149908.stream.smil/chunklist_w230032706_b978000.m3u8?uid=anonymous
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="090" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/o57Wln.md.png" group-title="ThaiSat Channel",SBT TV
+## DirectLink
+#http://
+## OtherLink
+http://202.142.203.28:1935/live/smil:sbt_tv_aac.smil/playlist.m3u8
+
+#EXTINF:0 tvg-chno="091" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxVQr0.md.png" group-title="ThaiSat Channel",Boonniyom TV
+## DirectLink
+http://live.boonniyom.tv:1935/live/bntvhd/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="092" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oU9K0e.md.png" group-title="ThaiSat Channel",White Channel
+## DirectLink
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="100" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxVxQR.md.png" group-title="ThaiSat Channel",M CHANNEL
+## DirectLink
+http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
+## OtherLink
+#http://27.254.130.61/live01/ch19.m3u8?p=st
+
+#EXTINF:0 tvg-chno="101" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxeI4P.md.png" group-title="ThaiSat Channel",Mix Major Channel
+## DirectLink
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="102" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxVOmP.md.png" group-title="ThaiSat Channel",ZEE Nhang
+## DirectLink
+#http://
+## OtherLink
+https://cdnlive.goprimetime.info/feed/chzeenung/index.m3u8
+
+#EXTINF:0 tvg-chno="103" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxyho0.md.png" group-title="ThaiSat Channel",Channel 8
+## DirectLink
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="104" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxembZ.md.png" group-title="ThaiSat Channel",CTB TV
+## DirectLink
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="105" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/04/19/ARoMo1.th.png" group-title="ThaiSat Channel",MEDIA TV
+## DirectLink
+#http://edge3-bkk.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+## OtherLink
+http://203.154.243.32:23016
+
+#EXTINF:0 tvg-chno="106" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxVEPI.md.png" group-title="ThaiSat Channel",TVB Thai
+## DirectLink
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/chunklist_w1540067969.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="107" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxFI4J.md.png" group-title="ThaiSat Channel",Siam Channel
+## DirectLink
+https://edge6a.v2h-cdn.com/v2h/V2H12.stream_360p/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="108" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxFGP2.md.png" group-title="ThaiSat Channel",Lido Channel
+## DirectLink
+https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/chunklist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="109" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxFyp9.md.png" group-title="ThaiSat Channel",Scarla Channel
+## DirectLink
+https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/chunklist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="110" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxFmbD.md.png" group-title="ThaiSat Channel",Rama Channel
+## DirectLink
+https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/chunklist.m3u8
+## OtherLink
+#http://
+#EXTINF:0 tvg-chno="111" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxFJm1.md.png" group-title="ThaiSat Channel",13 Siam Thai 
+Channel
+## DirectLink
+https://stream75.otaro.co.th/live/13wDt2b6g4/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="112" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqYH1V.md.png" group-title="ThaiSat Channel",V2H 2
+## DirectLink
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w2102816919.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="113" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqzNnR.md.png" group-title="ThaiSat Channel",V2H 3
+## DirectLink
+https://edge6a.v2h-cdn.com/appt7/Sanook.stream_360p/chunklist_w1630170924.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="114" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqYn6E.md.png" group-title="ThaiSat Channel",Thai Ban TV
+## DirectLink
+https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1528521804.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="115" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqYPkt.md.png" group-title="ThaiSat Channel",HAPPY TV
+## DirectLink
+https://edge6a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w1567931962.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="116" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqYsEe.md.png" group-title="ThaiSat Channel",BanTerng 100
+## DirectLink
+https://edge6a.v2h-cdn.com/appt7/BANTERG.stream_720p/chunklist_w1359728839.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="117" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oU9gyv.md.png" group-title="ThaiSat Channel",MediaOnline TV
+## DirectLink
+https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w441190934.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="118" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqYVAQ.md.png" group-title="ThaiSat Channel",V2H 8
+## DirectLink
+https://edge6a.v2h-cdn.com/appt3/v2h8.stream_360p/chunklist_w70549678.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="119" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxIs8b.md.png" group-title="ThaiSat Channel",V2H 11
+## DirectLink
+https://edge6a.v2h-cdn.com/v2h/V2H11.stream_360p/chunklist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="120" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqY6Rv.md.png" group-title="ThaiSat Channel",TVD 2
+## DirectLink
+https://edge6a.v2h-cdn.com/appt7/TVD3.stream_360p/chunklist_w1362298715.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="121" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqY8WN.md.png" group-title="ThaiSat Channel",TVD 8
+## DirectLink
+https://edge6a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist_w207109005.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="122" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxm7Zk.md.png" group-title="ThaiSat Channel",RS Mall
+## DirectLink
+http://stream.rs.co.th/sbd-hi/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="123" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxeMQt.md.png" group-title="ThaiSat Channel",MVTV
+## DirectLink
+https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="124" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqYuzk.md.png" group-title="ThaiSat Channel",MVTV Series
+## DirectLink
+https://edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/chunklist_w1680196792.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="125" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqY2Xl.md.png" group-title="ThaiSat Channel",MVTV FIVE
+## DirectLink
+https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w943212395.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="126" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQWQKg.md.png" group-title="ThaiSat Channel",LookThoong TV HD
+## DirectLink
+#http://
+## OtherLink
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-chno="127" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQWUPW.md.png" group-title="ThaiSat Channel",Topline TV
+## DirectLink
+#https://edge6a.v2h-cdn.com/m2i7/Topline.stream_360p/playlist.m3u8
+## OtherLink
+https://bit.ly/3oYCqDj
+
+#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-112504.jpg",Amazing Show
+http://203.154.243.32:8088/live/amazing/index.m3u8
+#</200-299_Entertainment Channel/>
+#EXTINF:0 tvg-chno="200" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQWinS.md.png" group-title="Entertainment Channel",FOX Thai
+## DirectLink
+https://smart-tv.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="201" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQS62I.md.png" group-title="Entertainment Channel",Fox Action Movies
+## DirectLink
+https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8
+## OtherLink
+#https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8
+
+#EXTINF:0 tvg-chno="202" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQSugZ.md.png" group-title="Entertainment Channel",Fox Movies HD
+## DirectLink
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+## OtherLink
+#http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+
+#EXTINF:0 tvg-chno="203" tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment Channel",Fox Life
+## DirectLink
+#http://
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 tvg-chno="204" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQSAB8.md.png" group-title="Entertainment Channel",AXN
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
+
+#EXTINF:0 tvg-chno="205" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQSC7u.md.png" group-title="Entertainment Channel",Fashion TV
+## DirectLink
+#http://
+## OtherLink
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+
+#EXTINF:0 tvg-chno="206" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/04/19/ARCpf2.md.png" group-title="Entertainment Channel",Outdoor Channel
+## DirectLink
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="207" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/04/19/ARCv51.md.png" group-title="Entertainment Channel",TLC
+## DirectLink
+#http://
+## OtherLink
+https://bit.ly/3oYCqDj
+
+#EXTINF:0 tvg-chno="208" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQSnFP.md.png" group-title="Entertainment Channel",HBO
+## DirectLink
+#http://
+## OtherLink
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:0 tvg-chno="209" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oU9QvV.md.png" group-title="Entertainment Channel",&flix HD
+## DirectLink
+#http://
+## OtherLink
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-chno="210" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oU9qBQ.md.png" group-title="Entertainment Channel",&prive HD
+## DirectLink
+#http://
+## OtherLink
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+
+#</400-499_Cartoon&Kids Channel/>
+#EXTINF:0 tvg-chno="400" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQ41yI.md.png" group-title="Cartoon&Kids Channel",Cartoon Network HD
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="401" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQ4clt.md.png" group-title="Cartoon&Kids Channel",Nick jr.
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="402" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQ4tcu.md.png" group-title="Cartoon&Kids Channel",Cartoon Club
+## DirectLink
+https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist_w677573338.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="403" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQ4gve.md.png" group-title="Cartoon&Kids Channel",Toonee
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="404" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQ4w2Z.md.png" group-title="Cartoon&Kids Channel",Boomerang
+## DirectLink
+#https://bit.ly/3oYCqDj
+## OtherLink
+http://27.254.130.61/live01/ch18.m3u8?p=st
+
+#EXTINF:0 tvg-chno="405" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqWWeW.md.png" group-title="Cartoon&Kids Channel",ANIMAX
+## DirectLink
+#http://
+## OtherLink
+http://203.154.177.124:8899/live/ch5/playlist.m3u8
+
+
+#</500-599_Knowledge Channel/>
+#EXTINF:0 tvg-chno="500" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQToUf.md.png" group-title="Knowledge Channel",PSI สาระดี
+## DirectLink
+#http://
+## OtherLink
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+
+#EXTINF:0 tvg-chno="501" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQTMqS.md.png" group-title="Knowledge Channel",Discovery Asia
+## DirectLink
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+## OtherLink
+#http://
+#EXTINF:-1  tvg-chno="501" tvg-id="" group-title="Knowledge Channel" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-27-073833.jpg",ANIMAL PLANET
+## DirectLink
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:0 tvg-chno="502" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQTIBQ.md.png" group-title="Knowledge Channel",Discovery
+## DirectLink
+
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="509" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQtW8n.md.png" group-title="Knowledge Channel",LoveNature 4K
+## DirectLink
+#http://
+## OtherLink
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:0 tvg-chno="510" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQcdPe.md.png" group-title="Knowledge Channel",NASA TV
+## DirectLink
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+## OtherLink
+#http://
+
+
+#</600-699_Sports Channel/>
+#EXTINF:0 tvg-chno="600" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmDUJ.md.png" group-title="Sports Channel",T-Sports
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m2/tsports_480p/chunks.m3u8?nimblesessionid=95914622
+
+#EXTINF:0 tvg-chno="601" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUeIrf.md.png" group-title="Sports Channel",FOX Sports HD
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/119.m3u8
+
+#EXTINF:0 tvg-chno="602" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUm0sz.md.png" group-title="Sports Channel",FOX Sports 2
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/117.m3u8
+
+#EXTINF:0 tvg-chno="603" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUm7m8.md.png" group-title="Sports Channel",FOX Sports 3
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://160.119.77.116:8081/iptv/sd-foxsports3.stream/playlist.m3u8
+
+#EXTINF:0 tvg-chno="610" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oUTJA1.md.png" group-title="Sports Channel",True PREMIER HD 1
+## DirectLink
+#http://
+## OtherLink
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-chno="611" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmZvN.md.png" group-title="Sports Channel",True PREMIER HD 2
+## DirectLink
+#http://
+## OtherLink
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-chno="612" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmgNV.md.png" group-title="Sports Channel",True PREMIER HD 3
+## DirectLink
+#http://
+## OtherLink
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-chno="613" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmR8S.md.png" group-title="Sports Channel",True PREMIER HD 4
+## DirectLink
+#http://
+## OtherLink
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-chno="614" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmiUQ.md.png" group-title="Sports Channel",True PREMIER HD 5
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="615" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUm5y2.md.png" group-title="Sports Channel",True Sports HD
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="616" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmOT1.md.png" group-title="Sports Channel",True Sports HD 2
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="617" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmbjy.md.png" group-title="Sports Channel",True Sports HD 3
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="618" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmjvD.md.png" group-title="Sports Channel",True Sports HD 4
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="619" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmQ0n.md.png" group-title="Sports Channel",True Sports 2
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="620" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmUcg.md.png" group-title="Sports Channel",True Sports 5
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="621" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmq2W.md.png" group-title="Sports Channel",True Sports 7
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="622" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmoB9.md.png" group-title="Sports Channel",True Tennis
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="623" tvg-id="" tvg-name="" tvg-logo="" group-title="Sports Channel",Astro SuperSport 1
+## DirectLink
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="624" tvg-id="" tvg-name="" tvg-logo="" group-title="Sports Channel",Astro SuperSport 2
+## DirectLink
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="625" tvg-id="" tvg-name="" tvg-logo="" group-title="Sports Channel",Astro SuperSport 3
+## DirectLink
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="626" tvg-id="" tvg-name="" tvg-logo="" group-title="Sports Channel",Astro SuperSport 4
+## DirectLink
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="627" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUm9Ze.md.png" group-title="Sports Channel",Redbull TV
+## DirectLink
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="628" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUey4J.md.png" group-title="Sports Channel",FIGHT SPORTS
+## DirectLink
+#http://
+## OtherLink
+http://203.154.177.124:8899/live/ch22/playlist.m3u8
+
+#EXTINF:0 tvg-chno="629" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oUmzj0.md.png" group-title="Sports Channel",Hi Sport HD
+## DirectLink
+https://bit.ly/3oYCqDj
+## OtherLink
+#http://
+
+
+#</700-724_Japan Channel/>
+#EXTINF:0 tvg-chno="700" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQXZZ.md.png" group-title="Japan Channel",Nippon NEWS24
+## DirectLink
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="701" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQyQv.md.png" group-title="Japan Channel",TV Tokyo
+## DirectLink
+#http://
+## OtherLink
+http://203.162.235.41:16908/
+
+#EXTINF:0 tvg-chno="702" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQLpl.md.png" group-title="Japan Channel",TBS
+## DirectLink
+#http://
+## OtherLink
+http://203.162.235.41:16907/
+
+#EXTINF:0 tvg-chno="703" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQmNk.md.png" group-title="Japan Channel",TV Asahi
+## DirectLink
+#http://
+## OtherLink
+http://203.162.235.41:16906/
+
+#EXTINF:0 tvg-chno="704" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQpmP.md.png" group-title="Japan Channel",Nippon TV
+## DirectLink
+#http://
+## OtherLink
+http://203.162.235.41:16905/
+
+#EXTINF:0 tvg-chno="705" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQjnD.md.png" group-title="Japan Channel",BS TBS
+## DirectLink
+#http://
+## OtherLink
+http://203.162.235.41:16913/
+
+#EXTINF:0 tvg-chno="706" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQFrE.md.png" group-title="Japan Channel",WOW Japan
+## DirectLink
+#http://
+## OtherLink
+http://203.162.235.41:16916/
+
+
+#</750-779_Korea Channel/>
+#EXTINF:0 tvg-chno="750" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQPmf.md.png" group-title="Korea Channel",KBS 1 HD
+## DirectLink
+https://1tv.gscdn.kbs.co.kr/1tv-02/1tv-02_hd.m3u8?Expires=1621353907&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0di0wMi8xdHYtMDJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMTM1MzkwN319fV19&Signature=ZDZ~H9CLb5ieCXkc708RbEg8gAe8dB4rJG29kfmPJltbOdnNyJ-r7nun6HqTV-Id2~idL5rHlZ14wniOzVIKkEgMnTtEDTn5-M5k3pjzB35YUryPlfbdD4nlRButk3o0dvBwnPXaiziYhSQx7evUJUNmFP~ExTuJxU~Ar4HognAir~XRrBqTVSNmPKcrXj0107z-HFa5L0o6D0VPdswsyncqq2mhKDhyqxJQJOEm68oqFeb2IvroGHWk8fhczL2chdu0dWS-R-9fVJiYfA7BZaSBnWwuEnF3L61~c3b15yPTZ5WONJKvpDW08p2fu13Ped0XF7fZIUOW9wZUU6KQrA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="751" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQ23a.md.png" group-title="Korea Channel",KBS 2 HD
+## DirectLink
+https://2tv.gscdn.kbs.co.kr/2tv-02/2tv-02_hd.m3u8?Expires=1621353969&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0di0wMi8ydHYtMDJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMTM1Mzk2OX19fV19&Signature=QJ64Z8gUHSOiiagb9mkYj~bwFdwKqVx~FDAulvBWYGlZr~PODto2O77OvcRAn2-NmwOceknpfdFxx8MnWywI0bFFK7I9yB1ZQbuoCEWeQ1eLHQW9EzC-aXXFML0jm41rRdzXPK3J4gHoal5XMu55s5K27YYPrP6OTVKTHqIqkyUJcyhKs4c3HkHHeK73BLau09Y1iHeKwxo62PUihxhchwZhWJ5pkMv-WXPAZfW--88msOt8v6RppQhcs5nhbD0DsdmSquEDbvgQAJ7NKuKRqFMAiRlxq76~dX-VsQ7fA155ycBHRdfxgJiQz~~XRWcpzHaoyfFwK7nfs~2zhK9DHQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="752" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/19/olWsNn.md.png" group-title="Korea Channel",KBS 24
+## DirectLink
+https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Expires=1621354006&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi9uZXdzMjQtMDJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMTM1NDAwNn19fV19&Signature=n1sz95VJVeYIww9e3zl0-WNrIdu~fvANkYugJqRK9ty71xC5emqoll6DtF~2lIFnmVvOkLK2HU2-D~Ok2D4QkWmN5Uc1zWjcphLJ1rz~~abnMsL6OijjMfoGi0WTAlP-WoO3gupEQhE5cDXfQ6iueqVjtCHKrxtvIsOAJ2AvAIw-NuKqaTS0xT4hQqLtGXncgq-ZZK~I1IIZOzI0s~FDaueEs8R8JKHhApP7405r-y7IQYG1rET4Ip4-b-l-LB~xMbwr-48lvfyEFep-ZfwsR4KPVYlmlhxEZ2HOOmG2XRXP280K3dC-KbtrwrJOTs9E3gJSKjKqIs3fdtcqWOXuWg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="753" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/PkIxB9.md.png" group-title="Korea Channel",KBS Drama
+## DirectLink
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1621354103&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMTM1NDEwM319fV19&Signature=MZbvkMG1puH4zGa0JcfqhsS6TXCDeArRRTvss2bNMR9UAbR09UUn6~BV5nHuWHyUEj7W5S-ENAD9TxIHz0Wd8uPwozL8Ti52ju3r7tlQkDX~eWCYAlTmFG8x54-XBFr3rj1F4yr6NzWV82RzKYLZnsZqZipF1NLLsNY64-dmVnS2ZAaSxrf0FIex7OFc332SC2hPasBqvwHLgxWCwXA1hWvtk~Y6ICiscqamLpLEfKlX8iwagvJZrU5rELO2HJSybyoEz-DVDV-RcWL7AGd-GzFDTz0WRP8VrVXR4v3VmjF3am4lBe-1TU3tVahM5z5Qupn1frHHHILEFmu0J4qAlQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="754" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/PkIQUJ.md.png" group-title="Korea Channel",KBS Joy
+## DirectLink
+https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Expires=1621354016&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyL2tic25qb3ktMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMTM1NDAxNn19fV19&Signature=m9oEK8aBmJTgu1~QEQhHfLAR4GMcmhphWhQgeSxiuM2M4~kWJcY82J8t9GVavV6F6A4Cu9tp5QOJUvCyLX2VwYBAnUzKAoqmscKCq04h3ErdGKJMo-znyDP55ICJMhVoSmImfhmNQoZ2kr5eOXPKuNr9IiwU1pwnyOenCMd6iLFuzX0hEn3~ZBw-4KQ9GsWVHyzNNF8lzDJf38rDaLd4Nwj4CwnLgJ1zyCwVLjUfuBAl0SRUz1qp28vQlrnbNwzfPZqNXEpLa8SWAl5x-UXQonEyRwrdif9IP1HtTKwajTEeV3rP~1KcT2w-pyHba4A5YU3qTKoYmzbTBFargKCjvg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="755" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/PkMhwz.md.png" group-title="Korea Channel",KBS Story
+## DirectLink
+https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Expires=1621354083&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIva2JzbnctMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMTM1NDA4M319fV19&Signature=IUC4~hPm4Vv0i8GgmNALH7Wb1JT~2qA0wYDyce3ejriggq~Gnw-WUTmmqqADR6RcvDsJvFWjlOGSiBhU-ZALl86NEzFz3eWiER26WoqQny8P5mST~kBp26FjUXZUVOEsIfCle6rWVPU2x62597yCLUYwHwK9LHqkwad0srkiYAcYuMsF8viDctAyokjlkQenM3VWZ2r6VQKk6iRVON~uRk7ZrzpNU88dviyQdp6W7T4jRGNEP05LEIY-zAJKBdGnlS6gbjUh5Hn02XgnC1hVww8h9EwP8v7BPj1Sl0-d5S9R312uIQxxaKxy4E7SrBafepPP2gdrU8Pu1g70i46~GA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="756" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/PkMko8.md.png" group-title="Korea Channel",KBS Life
+## DirectLink
+https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Expires=1621354192&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIva2JzbmxpZmUtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMTM1NDE5Mn19fV19&Signature=neyM6G4LArCsYoS06PdOH4kR-ZvAIZ9C1wEItjTgCaPuzF8f1rPBR51zKC0iZWafHEoacTdktAlj49zxhgh2rVoQH~~HGVEAcfBlgU8TLBCPGoJd9t7cgEQwOPTKXLGJCKb-N6XK9c2NhCMiOFWsZmI3gULN4Wnr5XAayicWJjhMRrsAEXJkI-bkygLKHZdDNofnLFGdVdsTrF518eJ3LDegTWqcvUGtMlysaz0Y8OwN5vfMFKbCaDW74FYbxVXysL10KjyRdXbacI2ihibsWoO4fH~8wrhU527i6zf6MU7DMG3sh5wnOsyZyZaHNB-EET-eR7lo~N107xukb0X4rg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="757" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/PkI28I.th.png" group-title="Korea Channel",KBS Kids
+## DirectLink
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1621354198&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMTM1NDE5OH19fV19&Signature=ES-7MnzPaw1XBf04CpwleROrzvXlcqPzqyXaFq9Is4sFN~APV0liz7G8vqDt8WMa8wkLmYM4BQ49ZxgSMvFMagMMSzbj12Tc-~ufKuNIB8XQJmKTiCnvp~K7JyZxdpKjSyCaTzFM6D7TW3wpX~D8mqBsjrwj~2hTvDcrL-TaY40ChRKlrs5pVFx1~br-bPQGOLSx3tcaTlBavtqOcs6KeWQoc9SKMgTgEGpztjf4H8SZTEsXQD-unbpDFOJVPTgob1kBMvN0C0YyGDjOyokaByndIqOkxsj742tLJuelzg9ejjY4b7joAJizHLqkRAU7uzg4KF3ok3YQpb2I-laPvA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="758" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQqjwJ.md.png" group-title="Korea Channel",SBS HD
+## DirectLink
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="759" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/P37WWb.md.png" group-title="Korea Channel",SBS Plus HD
+## DirectLink
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="760" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/04/19/ARCXJW.md.png" group-title="Korea Channel",MBC HD
+## DirectLink
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="761" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQSHle.md.png" group-title="Korea Channel",tvN HD
+## DirectLink
+#http://
+## OtherLink
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+
+#EXTINF:0 tvg-chno="762" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQbxy.md.png" group-title="Korea Channel",Arirang Korea HD
+## DirectLink
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="763" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQM0N.md.png" group-title="Korea Channel",YTN HD
+## DirectLink
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="764" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/P3Sei9.th.png" group-title="Korea Channel",YTN 2
+## DirectLink
+https://slive.ytn.co.kr/weather/weather_20140419_1/chunklist_w1838313290.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="765" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/P30I6J.md.png" group-title="Korea Channel",YTN Science
+## DirectLink
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="766" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/P30oMP.md.png" group-title="Korea Channel",EBS 1 HD
+## DirectLink
+https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1048981949.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="767" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/P30luI.md.png" group-title="Korea Channel",EBS 2 HD
+## DirectLink
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/chunklist_w1479985567.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="768" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/P30veW.th.png" group-title="Korea Channel",EBS Kids HD
+## DirectLink
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist_w991422288.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="769" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/P30PDe.md.png" group-title="Korea Channel",EBS+ 1 HD
+## DirectLink
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/chunklist_w821403797.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="770" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/05/14/P30sLl.md.png" group-title="Korea Channel",EBS+ 2 HD
+## DirectLink
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/chunklist_w679084352.m3u8
+## OtherLink
+#http://
+
+
+#</780-799_China Channel/>
+#EXTINF:0 tvg-chno="780" tvg-id="" tvg-name="" tvg-logo="" group-title="China Channel",CCTV 1
+## DirectLink
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="781" tvg-id="" tvg-name="" tvg-logo="" group-title="China Channel",CCTV 2
+## DirectLink
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="782" tvg-id="" tvg-name="" tvg-logo="" group-title="China Channel",CCTV 3
+## DirectLink
+http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="783" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQod9.md.png" group-title="China Channel",CCTV 4
+## DirectLink
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="784" tvg-id="" tvg-name="" tvg-logo="" group-title="China Channel",CCTV 5
+## DirectLink
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="785" tvg-id="" tvg-name="" tvg-logo="" group-title="China Channel",CCTV 6
+## DirectLink
+http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="786" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/18/ob9x40.md.png" group-title="China Channel",CCTV 7
+## DirectLink
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="787" tvg-id="" tvg-name="" tvg-logo="" group-title="China Channel",CCTV 8
+## DirectLink
+http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="788" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/18/ob9iaR.md.png" group-title="China Channel",CCTV 9
+## DirectLink
+http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="789" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/18/ob9Qxu.md.png" group-title="China Channel",CCTV 10
+## DirectLink
+http://39.135.138.58:18890/PLTV/88888910/224/3221225627/index.m3u8
+## OtherLink
+#http://
+
+
+#</800-849_ASIA Channel/>
+#EXTINF:0 tvg-chno="800" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQAPb.md.png" group-title="ASIA Channel",CNA
+## DirectLink
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="801" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQaPI.md.png" group-title="ASIA Channel",NHK World Japan
+## DirectLink
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="802" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQqlDb.md.png" group-title="ASIA Channel",KBS World HD
+## DirectLink
+https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Expires=1621354253&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvd29ybGQtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMTM1NDI1M319fV19&Signature=hmqzQpCDPLkGTpys3o3LJxdSp1UbGxv-jradc232uPvJNKSaarDi5Qn8jXyIeoUdamFVnTMs0rxszcT5oEDXtUPMdmnDF5M63L7fSfXVl8uFTsMGvmaogwggj93wLCQipPMq45haEnbxJW3lMo5kDnJiVN6jS7BRWvAn2tnw2tosqlx8-cV9HVhHe~y4hAtTfQ3SEZnWI0Pe7GItuL1J3c5FmGiWFc1goGj3POfbpvDOVeCaekqTawkffHqdWGYT1cLG-tIz0MPOracbbKsyIjqZqR0Ih2mCCQ28Zk~v149xWMuQduVR7JPifVW~p-T8GwUvPIzCtQZwvEUH5mvV2w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="803" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQyErf.md.png" group-title="ASIA Channel",CNN Indonesia
+## DirectLink
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="847" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/04/19/ARlUKl.th.png" group-title="ASIA Channel",MN TV
+## DirectLink
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="848" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQVdu.md.png" group-title="ASIA Channel",MV MYANMAR
+## DirectLink
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w943443793.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="849" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQQ8r0.md.png" group-title="ASIA Channel",MV LAO
+## DirectLink
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/chunklist_w831130943.m3u8
+## OtherLink
+#http://
+
+
+#</850-899_International Channel/>
+#EXTINF:0 tvg-chno="850" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQtFw8.md.png" group-title="International Channel",CNN HD
+## DirectLink
+#http://
+## OtherLink
+#http://160.119.77.116:8081/iptv/uk-cnn.stream/playlist.m3u8
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-chno="851" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQtLia.md.png" group-title="International Channel",BBC World HD
+## DirectLink
+#http://
+## OtherLink
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:0 tvg-chno="853" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQw0EZ.md.png" group-title="International Channel",SKY News
+## DirectLink
+#http://
+## OtherLink
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
+
+#EXTINF:0 tvg-chno="854" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/oqW3eq.md.png" group-title="International Channel",FOX News
+## DirectLink
+#http://
+## OtherLink
+#http://160.119.77.116:8081/iptv/uk-foxnews.stream/playlist.m3u8
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:0 tvg-chno="855" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQtIDR.md.png" group-title="International Channel",France 24
+## DirectLink
+#http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+## OtherLink
+https://bit.ly/3oYCqDj
+
+#EXTINF:0 tvg-chno="858" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQtJYf.md.png" group-title="International Channel",ALJAZEERA
+## DirectLink
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="859" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQtML0.md.png" group-title="International Channel",Deutsche Welle
+## DirectLink
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+## OtherLink
+#http://
+
+#EXTINF:0 tvg-chno="860" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQtvVb.md.png" group-title="International Channel",ABC Australia
+## DirectLink
+#https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+## OtherLink
+https://bit.ly/3oYCqDj
+
+#EXTINF:0 tvg-chno="861" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQwdhu.md.png" group-title="International Channel",Russia Today
+## DirectLink
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+## OtherLink
+#http://
