@@ -25,10 +25,10 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 http://live.parliament.go.th/livestream/encoder3/playlist.m3u8
 ## OtherLink
 #http://
-#EXTINF:0 tvg-chno="016" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6Aek.md.png" group-title="Thailand Channel",TNN 24
+#EXTINF:-1 tvg-chno="16" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6Aek.md.png" group-title="Thailand Channel",TNN 24
 http://27.254.130.61/live01/ch5.m3u8?p=st
 
-#EXTINF:-1 tvg-chno="018" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png" group-title="Thailand Channel",JKN TV
+#EXTINF:-1 tvg-chno="18" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png" group-title="Thailand Channel",JKN TV
 ## DirectLink
 http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
 ## OtherLink
@@ -36,7 +36,7 @@ http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
 #EXTINF:0 tvg-chno="21" tvg-id="21" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR2v30.md.png" group-title="Thailand Channel",TOP NEWS
 ## DirectLink
 https://live.topnews.co.th/hls/topnews.m3u8
-#EXTINF:0 tvg-chno="022" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6qXu.md.png" group-title="Thailand Channel",Nation TV
+#EXTINF:0 tvg-chno="22" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6qXu.md.png" group-title="Thailand Channel",Nation TV
 ## DirectLink
 #https://
 ## OtherLink
