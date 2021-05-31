@@ -10,36 +10,25 @@ http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist_w821471000.m3u8
 #http://27.254.130.61/live01/ch6.m3u8?p=st
 
 #EXTINF:0 tvg-chno="002" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6EzZ.md.png" group-title="Thailand Channel",NBT HD
-## DirectLink
 https://thainews.prd.go.th/lv/live/ch1_L.sdp/chunklist_w525823488.m3u8
-## OtherLink
-#http://27.254.130.61/live01/ch14.m3u8?p=st
+## OtherLink http://27.254.130.61/live01/ch14.m3u8?p=st
 
 #EXTINF:0 tvg-chno="003" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6o1e.md.png" group-title="Thailand Channel",ThaiPBS HD
 ## DirectLink
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-## OtherLink
-#http://27.254.130.61/live02/ch0.m3u8?p=st
-
+## OtherLink #http://27.254.130.61/live02/ch0.m3u8?p=st
 #EXTINF:0 tvg-chno="004" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6VKg.md.png" group-title="Thailand Channel",ALTV HD
 ## DirectLink
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-## OtherLink
-#http://
-
 #EXTINF:0 tvg-chno="010" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR62OE.md.png" group-title="Thailand Channel",TPTV
 ## DirectLink
 http://live.parliament.go.th/livestream/encoder3/playlist.m3u8
 ## OtherLink
 #http://
-
 #EXTINF:0 tvg-chno="016" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6Aek.md.png" group-title="Thailand Channel",TNN 24
-## DirectLink
-#http://
-## OtherLink
 http://27.254.130.61/live01/ch5.m3u8?p=st
 
-#EXTINF:0 tvg-chno="018" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png" group-title="Thailand Channel",JKN TV
+#EXTINF:-1 tvg-chno="018" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png" group-title="Thailand Channel",JKN TV
 ## DirectLink
 http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
 ## OtherLink
@@ -264,9 +253,6 @@ http://rec-stream.rtaf.live/edge-1552452909/smil:live-1553149908.stream.smil/chu
 #http://
 
 #EXTINF:0 tvg-chno="090" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/16/o57Wln.md.png" group-title="ThaiSat Channel",SBT TV
-## DirectLink
-#http://
-## OtherLink
 http://202.142.203.28:1935/live/smil:sbt_tv_aac.smil/playlist.m3u8
 
 #EXTINF:0 tvg-chno="091" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxVQr0.md.png" group-title="ThaiSat Channel",Boonniyom TV
