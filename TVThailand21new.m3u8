@@ -44,7 +44,9 @@ http://27.254.130.61/live01/ch5.m3u8?p=st
 http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
 ## OtherLink
 #http://
-
+#EXTINF:0 tvg-chno="21" tvg-id="21" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR2v30.md.png" group-title="Thailand Channel",TOP NEWS
+## DirectLink
+https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:0 tvg-chno="022" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6qXu.md.png" group-title="Thailand Channel",Nation TV
 ## DirectLink
 #https://
@@ -92,10 +94,6 @@ http://27.254.130.56:80/live01/ch12.m3u8
 #https://one31-rlbwkq.cdn.byteark.com/live/playlist_240p/index.m3u8
 ## OtherLink
 http://27.254.130.61/live01/ch10.m3u8?p=st
-#EXTINF:0 tvg-chno="021" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR2v30.md.png" group-title="Thailand Channel",TOP NEWS
-## DirectLink
-https://live.topnews.co.th/hls/topnews.m3u8
-
 #EXTINF:0 tvg-chno="032" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6DAl.md.png" group-title="Thailand Channel",Thairath TV HD
 ## DirectLink
 https://live.thairath.co.th/trtv2/playlist.m3u8
@@ -125,8 +123,6 @@ http://27.254.130.61/live01/ch1.m3u8?p=st
 #https://pptv36-1tsjfj.cdn.byteark.com/live/pl_1080p/index.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_expires=1615645801&x_ark_path_prefix=%2Flive%2F&x_ark_signature=g-U5TiruAz1j5sbpI1QXpQ
 ## OtherLink
 http://27.254.130.61/live01/ch2.m3u8?p=st
-
-
 #</050-069_Education Channel/>
 #EXTINF:0 tvg-chno="050" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oxr1ee.md.png" group-title="Education Channel",DLTV 10
 ## DirectLink
