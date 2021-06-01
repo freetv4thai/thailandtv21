@@ -66,7 +66,7 @@ http://stream.rs.co.th/ch8-hi/index.m3u8
 ## OtherLink
 #http://27.254.130.61/live02/ch2.m3u8?p=st
 
-#EXTINF:0 tvg-chno="029" tvg-id="" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR66zV.md.png" group-title="Thailand Channel",MONO 29
+#EXTINF:0 tvg-chno="29" tvg-id="29" tvg-name="" tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR66zV.md.png" group-title="Thailand Channel",MONO 29
 ## DirectLink
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1021782105.m3u8
 ## OtherLink
