@@ -1,7 +1,7 @@
 #EXTM3U : thaiip.tv(modified)
-﻿#EXTINF:-1 tvg-id="1" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ททบ. 5",THAI 5
+﻿#EXTINF:-1 tvg-chno="1" tvg-id="1" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ททบ. 5",THAI 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1  tvg-id="2" tvg-logo-small="http://thaiip.tv/tvlogo2/2.png" tvg-logo="http://thaiip.tv/tvlogo2/2.png" tvg-chno="2" group-title="THAI Digital TV" tvg-name="NBT2",NBT 2
+#EXTINF:-1  tvg-chno="2" tvg-id="2" tvg-logo-small="http://thaiip.tv/tvlogo2/2.png" tvg-logo="http://thaiip.tv/tvlogo2/2.png" tvg-chno="2" group-title="THAI Digital TV" tvg-name="NBT2",NBT 2
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1249643471.m3u8
 #EXTINF:-1  tvg-id="3" tvg-logo-small="http://thaiip.tv/tvlogo2/3.png" tvg-logo="http://thaiip.tv/tvlogo2/3.png" tvg-chno="3" group-title="THAI Digital TV" tvg-name="ไทย พีบีเอส",Thai PBS 3 HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -11,11 +11,11 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 tvg-id="6"  tvg-logo="http://thaiip.tv/tvlogo2/wch.png" tvg-chno="6" group-title="THAI Digital TV" tvg-name="White Channel",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo-small="http://thaiip.tv/tvlogo2/7.png" tvg-logo="http://thaiip.tv/tvlogo2/7.png" tvg-chno="7" group-title="THAI Digital TV" tvg-name="ช่อง 7",THAI 7HD
+#EXTINF:-1 tvg-chno="35" tvg-id="7" tvg-logo-small="http://thaiip.tv/tvlogo2/7.png" tvg-logo="http://thaiip.tv/tvlogo2/7.png" tvg-chno="7" group-title="THAI Digital TV" tvg-name="ช่อง 7",THAI 7HD
 http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
 #EXTINF:-1 tvg-id="8" tvg-logo-small="http://thaiip.tv/tvlogo2/ch8.png" tvg-logo="http://thaiip.tv/tvlogo2/ch8.png" tvg-chno="8" group-title="THAI Digital TV" tvg-name="Channel 8",Channel8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 tvg-id="9" tvg-logo-small="http://thaiip.tv/tvlogo2/30.png" tvg-logo="http://thaiip.tv/tvlogo2/30.png" tvg-chno="9" group-title="THAI Digital TV" tvg-name="ช่อง 9",MCOT HD 30
+#EXTINF:-1 tvg-chno="30" tvg-id="9" tvg-logo-small="http://thaiip.tv/tvlogo2/30.png" tvg-logo="http://thaiip.tv/tvlogo2/30.png" tvg-chno="9" group-title="THAI Digital TV" tvg-name="ช่อง 9",MCOT HD 30
 https://tc-live1.sanook.com/live/22302_ch9.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo-small="http://thaiip.tv/tvlogo2/10.png" tvg-logo="http://thaiip.tv/tvlogo2/10.png" tvg-chno="10" group-title="THAI Digital TV" tvg-name="ไทยรัฐสภา",ParliamentTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
@@ -44,9 +44,9 @@ https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-id="22" tvg-logo-small="http://thaiip.tv/tvlogo2/22.png" tvg-logo="http://thaiip.tv/tvlogo2/22.png" tvg-chno="22" group-title="THAI Digital TV" tvg-name="NATION TV",NATION TV 22
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo-small="http://thaiip.tv/tvlogo2/23.png" tvg-logo="http://thaiip.tv/tvlogo2/23.png" tvg-chno="23" group-title="THAI Digital TV" tvg-name="WORK POINT",WORK POINT 23
-https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8n6akjXQ1WmHaamjilJCw_c)/dm/3/x6g9qjj/s/live-3.m3u8
+http://27.254.130.61/live01/ch7.m3u8?p=st
 #EXTINF:-1 tvg-id="24" tvg-logo-small="http://thaiip.tv/tvlogo2/24.png" tvg-logo="http://thaiip.tv/tvlogo2/24.png" tvg-chno="24" group-title="THAI Digital TV" tvg-name="True4u",True4u 24
-https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
+http://203.154.243.32:23028
 #EXTINF:-1 tvg-id="25" tvg-logo-small="http://thaiip.tv/tvlogo2/25.png" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-chno="25" group-title="THAI Digital TV" tvg-name="GMM25",GMM25 Channel
 https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-logo-small="http://thaiip.tv/tvlogo2/cartoonclub.png" tvg-logo="http://thaiip.tv/tvlogo2/cartoonclub.png" tvg-chno="26" group-title="THAI Digital TV" tvg-name="CARTOON CLUB",CARTOON CLUB
@@ -55,9 +55,9 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/c
 http://stream.rs.co.th/ch8-hi/index.m3u8
 #EXTINF:-1  tvg-id="28" tvg-logo-small="http://thaiip.tv/tvlogo2/boom.png" tvg-logo="http://thaiip.tv/tvlogo2/boom.png" tvg-chno="28" group-title="THAI Digital TV" tvg-name="Boomerang",Boomerang.Th
 https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-logo-small="http://thaiip.tv/tvlogo2/29.png" tvg-logo="http://thaiip.tv/tvlogo2/29.png" tvg-chno="29" group-title="THAI Digital TV" tvg-name="Mono29",MONO29 HD
+#EXTINF:-1  tvg-chno="29" tvg-logo-small="http://thaiip.tv/tvlogo2/29.png" tvg-logo="http://thaiip.tv/tvlogo2/29.png" tvg-chno="29" group-title="THAI Digital TV" tvg-name="Mono29",MONO29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-#EXTINF:-1 tvg-id="30" tvg-logo-small="http://thaiip.tv/tvlogo2/30.png" tvg-logo="http://thaiip.tv/tvlogo2/30.png" tvg-chno="30" group-title="THAI Digital TV" tvg-name="MCOT HD 30",MCOT HD 30
+#EXTINF:-1 tvg-chno="30" tvg-logo-small="http://thaiip.tv/tvlogo2/30.png" tvg-logo="http://thaiip.tv/tvlogo2/30.png" tvg-chno="30" group-title="THAI Digital TV" tvg-name="MCOT HD 30",MCOT HD 30
 https://tc-live1.sanook.com/live/22302_ch9.m3u8
 #EXTINF:-1 tvg-id="31" tvg-logo-small="http://thaiip.tv/tvlogo2/31.png" tvg-logo="http://thaiip.tv/tvlogo2/31.png" tvg-chno="31" group-title="THAI Digital TV" tvg-name="One 31",GMM ONE HD
 https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
