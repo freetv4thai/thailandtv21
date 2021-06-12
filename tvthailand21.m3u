@@ -32,7 +32,7 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 tvg-id="16" tvg-logo-small="http://thaiip.tv/tvlogo2/16.png" tvg-logo="http://thaiip.tv/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN",TNN 16 HD
 https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo-small="http://thaiip.tv/tvlogo2/m.png" tvg-logo="http://thaiip.tv/tvlogo2/m.png" tvg-chno="17" group-title="THAI Digital TV" tvg-name="M Channel",M Channel
-http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
+http://27.254.142.207:8080/live/web.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo-small="http://thaiip.tv/tvlogo2/new.png" tvg-logo="http://thaiip.tv/tvlogo2/new.png" tvg-chno="18" group-title="THAI Digital TV" tvg-name="NEW18",NEW18
 http://916309128f3e.sn.mynetname.net:1935/aslive/newtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="19" tvg-logo-small="http://thaiip.tv/tvlogo2/sabai.png" tvg-logo="http://thaiip.tv/tvlogo2/sabai.png" tvg-chno="19" group-title="THAI Digital TV" tvg-name="สบายดีทีวี",SABAIDEE TV
@@ -208,7 +208,7 @@ https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/amarintv_480p/playl
 #EXTINF:-1  tvg-id="Amarin TV" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
 #EXTINF:-1  tvg-id="True 4U" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074707.jpg",true4U
-https://cdn6.goprimetime.info/feed/chtrue4u/index.m3u8
+https://cdn025.stm.trueid.net/live10/207_th_w_auto_true4u.smil/chunklist_w1934416524_b2787392.m3u8?appid=true4u&visitor=web&uid=vf573ydx24&did=cXZ3emk3YXd1ag&mpass=T7of99dql2EpM1DzWOvWFwb3%2BJ6%2BDoqiz%2FkIKjO5%2FOfmexc405zrXV29DH5gkf7vAywFuk2ORffyAJ21Y0h7TDo6NtSeZq83btqztfO%2BR8bzSw%3D%3D&type=live&sid=89ee1deff0&rt=1623535493&tk=YaVqlsOLsyznkfrbY10defnxT0IQ6_fPGalGKbm4t5s
 #EXTINF:-1  tvg-id="True 4U" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074707.jpg",true4U
 https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
 #EXTINF:-1  tvg-id="CH8" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074848.jpg",CH8
