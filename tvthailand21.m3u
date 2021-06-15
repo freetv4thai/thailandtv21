@@ -21,9 +21,9 @@ https://tc-live1.sanook.com/live/22302_ch9.m3u8
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1 tvg-id="11" tvg-chno="11" tvg-logo="http://thaiip.tv/tvlogo2/boonniyom.png" group-title="THAI Digital TV" tvg-name="บุญนิยม",BOONNIYOM TV
 http://live.boonniyom.tv:1935/live/bntvsd/playlist.m3u8
-#EXTINF:-1 tvg-id="63" tvg-chno="210" tvg-logo="http://thaiip.tv/tvlogo2/news1.png" group-title="THAI Digital TV" tvg-name="News1" ,News1
+#EXTINF:-1 tvg-chno="120" tvg-id="12"  tvg-logo="http://thaiip.tv/tvlogo2/news1.png" group-title="THAI Digital TV" tvg-name="News1" ,News1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF :-1 tvg-id="63" group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/bluesky.png" tvg-name="Bluesky Channel",ฟ้าวันใหม่
+#EXTINF :-1  tvg-chno="210" tvg-id="63" group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/bluesky.png" tvg-name="Bluesky Channel",ฟ้าวันใหม่
 https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist_w185914801.m3u8
 #EXTINF:-1 tvg-id="14" tvg-chno="14" tvg-logo="http://thaiip.tv/tvlogo2/mvtv.png" group-title="THAI Digital TV" tvg-name="MVTV",MVTV
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w896738527.m3u8
