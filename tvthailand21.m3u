@@ -23,7 +23,7 @@ http://49.231.66.85:1935/live/tptv/playlist.m3u8
 http://live.boonniyom.tv:1935/live/bntvsd/playlist.m3u8
 #EXTINF:-1 tvg-id="12" tvg-chno="12" tvg-logo="http://thaiip.tv/tvlogo2/news1.png" group-title="THAI Digital TV" tvg-name="News1" ,News1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 tvg-id="13" group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/bluesky.png" tvg-name="Bluesky Channel",ฟ้าวันใหม่
+#EXTINF tvg-chno="89" :-1 tvg-id="103" group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/bluesky.png" tvg-name="Bluesky Channel",ฟ้าวันใหม่
 https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist_w185914801.m3u8
 #EXTINF:-1 tvg-id="14" tvg-chno="14" tvg-logo="http://thaiip.tv/tvlogo2/mvtv.png" group-title="THAI Digital TV" tvg-name="MVTV",MVTV
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w896738527.m3u8
@@ -195,8 +195,8 @@ https://doofootball.livestream-cdn.com/iptv/hd-golf.stream/playlist.m3u8
 https://p0.cdn.vet/live/ch40/i/ch40i.m3u8?sid=cjeZjJkODY4NzAzNTI0NTUwMGRkZQOWJlYmUzZThkZjE5MTVk
 #EXTINF:-1  tvg-id="TNN16" group-title="Digital.TV" tvg-logo="https://www.mx7.com/i/00b/u122QH.jpg",TNN16
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
-#EXTINF:-1  tvg-id="NEW TV 18" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-04-075913.jpg",NEW 18
-https://cdn6.goprimetime.info/feed/newtv/index.m3u8
+#EXTINF:-1 tvg-chno="99" tvg-id="PSI สาระดี" group-title="Digital.TV" tvg-logo="https://sv1.picz.in.th/images/2021/02/15/oQToUf.md.png",PSI สาระดี
+http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="PPTV HD" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074500.jpg",PPTV สำรอง
 https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=bjeNTE1ZDc4ZmE0NzI0ZjQ2ZTA2NwNzkzOWJlMjAzYzM4Zjk3
 #EXTINF:-1  tvg-id="Animal Planet" group-title="Documentary" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-03-27-073833.jpg",ANIMAL PLANET
