@@ -174,7 +174,7 @@ https://5f27aa1f6ef91.streamlock.net/jkndramax/myStream/chunklist_w2066613617.m3
 #EXTINF:-1 tvg-id="87" tvg-logo-small="http://thaiip.tv/tvlogo2/foxthai.png" tvg-logo="http://thaiip.tv/tvlogo2/foxthai.png" tvg-chno="87" group-title="Entertainment" tvg-name="Fox Thai",Fox Thai
 https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8
 #EXTINF:-1 tvg-id="88" tvg-logo-small="http://thaiip.tv/tvlogo2/m.png" tvg-logo="http://thaiip.tv/tvlogo2/m.png" tvg-chno="88" group-title="Entertainment" tvg-name="M channel",M channel
-http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
+http://27.254.130.61/live01/ch19.m3u8?p=st
 #EXTINF:-1 tvg-id="89" tvg-logo-small="http://thaiip.tv/tvlogo2/toonee.png" tvg-logo="http://thaiip.tv/tvlogo2/toonee.png" tvg-chno="89" group-title="Kids" tvg-name="toonee",toonee
 https://edge6a.v2h-cdn.com/m2i4/BOOMERANG.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="90" tvg-logo-small="http://thaiip.tv/tvlogo2/boom.png" tvg-logo="http://thaiip.tv/tvlogo2/boom.png" tvg-chno="90" group-title="Kids" tvg-name="Boomerang",Boomerang
@@ -207,11 +207,7 @@ http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/nation_480p/playlist.m3u8
 #EXTINF:-1  tvg-id="Nation TV" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-081440.jpg",Nation
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
-#EXTINF:-1  tvg-id="Amarin TV" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-01-073317.jpg",Amarin
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/amarintv_480p/playlist.m3u8
-#EXTINF:-1  tvg-id="True 4U" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074707.jpg",true4U
-http://27.254.130.64/live01/chsd_True4U_4.m3u8?p=st
-#EXTINF:-1  tvg-id="107"  tvg-chno="" group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-112504.jpg",Amazing Show
+#EXTINF:-1  tvg-id="107"  tvg-chno="" group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-112504.jpg",Amazing Show
 http://203.154.243.32:8088/live/amazing/index.m3u8
 #EXTINF:-1  tvg-id="CH8" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-074848.jpg",CH8
 http://stream.rs.co.th/ch8-hi/index.m3u8
@@ -517,10 +513,6 @@ http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w439724723.m3u8
 http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 #EXTINF:-1  tvg-id="M channel" group-title="Movie" tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
-#EXTINF:-1  tvg-id="M channel" group-title="Movie" tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
-https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8
-#EXTINF:-1  tvg-id="M channel" group-title="Movie" tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
-http://27.254.130.61/live01/ch19.m3u8?p=st
 #EXTINF:-1  tvg-id="TVB XING HE" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="TVB XING HE" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
