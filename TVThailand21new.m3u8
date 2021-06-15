@@ -32,6 +32,11 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 http://live.parliament.go.th/livestream/encoder3/playlist.m3u8
 ## OtherLink
 #http://
+#EXTINF:0 tvg-id="029"   tvg-chno="129"   tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR66zV.md.png" group-title="Thailand Channel",MONO 29
+## DirectLink
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1021782105.m3u8
+## OtherLink
+#http://27.254.130.61/live01/ch3.m3u8?p=st
 
 #EXTINF:0 tvg-id="016"     tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6Aek.md.png" group-title="Thailand Channel",TNN 24
 ## DirectLink
@@ -74,12 +79,6 @@ http://27.254.130.61/live01/ch11.m3u8?p=st
 http://stream.rs.co.th/ch8-hi/index.m3u8
 ## OtherLink
 #http://27.254.130.61/live02/ch2.m3u8?p=st
-
-#EXTINF:0 tvg-id="029"     tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR66zV.md.png" group-title="Thailand Channel",MONO 29
-## DirectLink
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1021782105.m3u8
-## OtherLink
-#http://27.254.130.61/live01/ch3.m3u8?p=st
 
 #EXTINF:0 tvg-id="030"     tvg-logo="https://sv1.picz.in.th/images/2021/02/14/oR6nxQ.md.png" group-title="Thailand Channel",MCOT HD
 ## DirectLink
