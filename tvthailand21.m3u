@@ -450,7 +450,7 @@ https://edge6a.v2h-cdn.com/m2a7/MediaOnline.stream_360p/playlist.m3u8
 https://edge6a.v2h-cdn.com/m2a3/AonZon.stream_360p/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-22-062536.jpg",MV ลาว
 https://edge6a.v2h-cdn.com/m2s7/MVLAO.stream_360p/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-112504.jpg",!Amazing Show
+#EXTINF:-1  tvg-id="53"  tvg-chno="53" group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-112504.jpg",Amazing Show
 http://203.154.243.32:8088/live/amazing/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://www.comedy.co.uk/images/channels/bbc_scotland.jpg",BBC Scotland
 http://51.52.156.22:8888/http/001
