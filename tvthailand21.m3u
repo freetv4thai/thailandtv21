@@ -23,6 +23,8 @@ http://49.231.66.85:1935/live/tptv/playlist.m3u8
 http://live.boonniyom.tv:1935/live/bntvsd/playlist.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="992"  tvg-logo="http://thaiip.tv/tvlogo2/news1.png" group-title="THAI Digital TV" tvg-name="News1" ,News1
 http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-id="86" tvg-logo-small="http://thaiip.tv/tvlogo2/jkn.png" tvg-logo="http://thaiip.tv/tvlogo2/jkn.png" tvg-chno="86" group-title="Entertainment" tvg-name="JKN",JKN
+https://5f27aa1f6ef91.streamlock.net/jkndramax/myStream/chunklist_w2066613617.m3u8
 #EXTINF:-1 tvg-id="14" tvg-chno="14" tvg-logo="http://thaiip.tv/tvlogo2/mvtv.png" group-title="THAI Digital TV" tvg-name="MVTV",MVTV
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w896738527.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="http://thaiip.tv/tvlogo2/ctb.png" group-title="THAI Digital TV" tvg-name="CTB",CTB
