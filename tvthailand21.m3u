@@ -142,7 +142,7 @@ https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="71" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2021-01-06-104450.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104450.jpg" tvg-chno="71" group-title="International" tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
 http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="72" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg" tvg-chno="72" group-title="International" tvg-name="Discovery Asia",Discovery Asia
-https://doofootball.livestream-cdn.com:443/iptv/hd-discovery.stream/chunks.m3u8
+http://77.83.117.60:8888/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 tvg-id="73" tvg-logo-small="http://thaiip.tv/tvlogo2/outdoor.jpg" tvg-logo="http://thaiip.tv/tvlogo2/outdoor.jpg" tvg-chno="73" group-title="International" tvg-name="OUTDOOR(JP)",OUTDOOR(JP)
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2020-11-03-015921.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-015921.jpg" tvg-chno="74" group-title="Thailand" tvg-name="PSI SARADEE(สาระดี)",PSI SARADEE(สาระดี)
@@ -738,7 +738,7 @@ http://160.119.77.117/iptv/sd-fyi.stream/chunks.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-money.png",!Money Channel (TH)
 http://160.119.77.117/iptv/sd-money.stream/chunks.m3u8
 #EXTINF:-1  tvg-id="TH - NAT GEO HD" group-title="Documentary" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-natgeo.png",!National Geographic (TH)
-http://160.119.77.117/iptv/hd-natgeo.stream/chunks.m3u8
+https://www.livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="Cartoon Network" group-title="Kid" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-cartoonnetwork.png",!Cartoon Network (TH)
 http://160.119.77.117/iptv/sd-cartoonnetwork.stream/chunks.m3u8
 #EXTINF:-1  tvg-id="TH - DISNEY" group-title="Kid" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-disney.png",Disney Channel (TH)
