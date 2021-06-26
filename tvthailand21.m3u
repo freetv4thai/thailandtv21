@@ -337,8 +337,8 @@ https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="FOX Sports" group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",!Fox Sports 1
 http://160.119.77.117/iptv/hd-foxsports1.stream/chunks.m3u8
-#EXTINF:-1  tvg-id="FOX Sports" group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",Fox Sports 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="170" tvg-logo-small="http://thaiip.tv/tvlogo2/24.png" tvg-logo="http://thaiip.tv/tvlogo2/24.png" tvg-chno="24" group-title="THAI Digital TV" tvg-name="True4u",True4u 24
+https://edge-m2.onlineprostream.com:459/hmcb4rf66f-th1/sd-24u_480/chunks.m3u8?nimblesessionid=652774&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDIxIDk6NDQ6NDMgQU0maGFzaF92YWx1ZT1COTcveDFiSE13a1ZjVHl5aUhEME5BPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjUmaWQ9NDY1ODU2M3xodHRwczovL2Rvb2JhbGw2Ni5jb20vfE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MS4wLjQ0NzIuMTE0IFNhZmFyaS81MzcuMzZ8MTYyNDcwMDY4M3xzZC0yNHU0ODB8NDY1ODU2M3wxODQuMjIuMjAzLjI3
 #EXTINF:-1  tvg-id="FOX Sports" group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",!Fox Sports 1(English)
 http://160.119.77.117/iptv/hd-foxsports1eng.stream/chunks.m3u8
 #EXTINF:-1  tvg-id="FOX Sports 2" group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",Fox Sports 2
