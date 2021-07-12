@@ -34,7 +34,7 @@ https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
 #EXTINF:-1 tvg-id="17" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-103156.jpg",FOX​ MOVIE​
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="018" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png" group-title="THAI Digital TV",JKN TV
-http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/newstv/chunks.m3u8?nimblesessionid=2270958&Y3hibm1vZkI3SjFTb0RubnNDaERtMFdLWUtQT0RCMko1K0JDYU1pazJVK3hhbVdhZVZPY1hKYStmZzI3Wlh2ZGcyUUY4RlRqZHZzWngrMU5XeWltSHZ1OWtIN0U4TDU0Wm9WcHdNVUpQZVU9,91e89161352e3e81c30bb5897bc0e152
 #EXTINF:-1 tvg-id="19" tvg-logo-small="http://thaiip.tv/tvlogo2/sabai.png" tvg-logo="http://thaiip.tv/tvlogo2/sabai.png" tvg-chno="19" group-title="THAI Digital TV" tvg-name="สบายดีทีวี",SABAIDEE TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo-small="http://thaiip.tv/tvlogo2/voicetv.png" tvg-logo="http://thaiip.tv/tvlogo2/voicetv.png" tvg-chno="20" group-title="THAI Digital TV" tvg-name="Voice TV",Voice TV
