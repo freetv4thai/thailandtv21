@@ -34,7 +34,7 @@ https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo-small="http://thaiip.tv/tvlogo2/m.png" tvg-logo="http://thaiip.tv/tvlogo2/m.png" tvg-chno="17" group-title="THAI Digital TV" tvg-name="M Channel",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
 #EXTINF:-1 tvg-id="18" tvg-logo-small="http://thaiip.tv/tvlogo2/new.png" tvg-logo="http://thaiip.tv/tvlogo2/new.png" tvg-chno="18" group-title="THAI Digital TV" tvg-name="NEW18",NEW18
-http://916309128f3e.sn.mynetname.net:1935/aslive/newtv/chunklist.m3u8
+https://cdnlive.goprimetime.info/feed/newtv/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-logo-small="http://thaiip.tv/tvlogo2/sabai.png" tvg-logo="http://thaiip.tv/tvlogo2/sabai.png" tvg-chno="19" group-title="THAI Digital TV" tvg-name="สบายดีทีวี",SABAIDEE TV
 http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo-small="http://thaiip.tv/tvlogo2/voicetv.png" tvg-logo="http://thaiip.tv/tvlogo2/voicetv.png" tvg-chno="20" group-title="THAI Digital TV" tvg-name="Voice TV",Voice TV
@@ -53,8 +53,8 @@ https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="27" tvg-logo-small="http://thaiip.tv/tvlogo2/27.png" tvg-logo="http://thaiip.tv/tvlogo2/27.png" tvg-chno="27" group-title="THAI Digital TV" tvg-name="ช่อง 8",Channel 8 กดช่อง 27
 http://stream.rs.co.th/ch8-hi/index.m3u8
-#EXTINF:-1  tvg-id="28" tvg-logo-small="http://thaiip.tv/tvlogo2/boom.png" tvg-logo="http://thaiip.tv/tvlogo2/boom.png" tvg-chno="28" group-title="THAI Digital TV" tvg-name="Boomerang",Boomerang.Th
-https://cdn6.goprimetime.info/feed/chboomberang/index.m3u8
+#EXTINF:-1  tvg-id="28" tvg-logo-small="http://thaiip.tv/tvlogo2/boom.png" tvg-logo="http://thaiip.tv/tvlogo2/boom.png" tvg-chno="28" group-title= "KID" tvg-name="Boomerang",Boomerang
+http://27.254.130.62/feed/chboomberang/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="29" tvg-logo-small="http://thaiip.tv/tvlogo2/29.png" tvg-logo="http://thaiip.tv/tvlogo2/29.png" tvg-chno="29" group-title="THAI Digital TV" tvg-name="Mono29",MONO29 HD
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
 #EXTINF:-1 tvg-id="30" tvg-logo-small="http://thaiip.tv/tvlogo2/30.png" tvg-logo="http://thaiip.tv/tvlogo2/30.png" tvg-chno="30" group-title="THAI Digital TV" tvg-name="MCOT HD 30",MCOT HD 30
@@ -70,7 +70,7 @@ http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="35" tvg-logo-small="http://thaiip.tv/tvlogo2/35.png" tvg-logo="http://thaiip.tv/tvlogo2/35.png" tvg-chno="35" group-title="THAI Digital TV" tvg-name="ช่อง7สี",THAI 7HD
 http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
 #EXTINF:-1 tvg-id="36" tvg-logo-small="http://thaiip.tv/tvlogo2/36.png" tvg-logo="http://thaiip.tv/tvlogo2/36.png" tvg-chno="36" group-title="THAI Digital TV" tvg-name="PPTV",PPTV HD
-https://live-cdn.allhilight.com/abr_live/pptv/live/pptv_720p/chunks.m3u8
+https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg" tvg-chno="37",SAMRUJLOK
 http://27.254.130.62/feed/LC8/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png" tvg-chno="38",National Geographic EN
@@ -139,10 +139,10 @@ https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/chunklist_w1508962232.m3u8
 https://edge6a.v2h-cdn.com/appt7/MediaOnline.stream_360p/chunklist_w836278956.m3u8
 #EXTINF:-1 tvg-id="70" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTac9cFf1TvMV5zgbmbv0sOyQ9RjPDGazMkkqvkNJuEyorn6-T&usqp=CAU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTac9cFf1TvMV5zgbmbv0sOyQ9RjPDGazMkkqvkNJuEyorn6-T&usqp=CAU" tvg-chno="70" group-title="Thailand" tvg-name="ลูกทุ่ง TVHD",ลูกทุ่ง TVHD
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="71" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2021-01-06-104450.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104450.jpg" tvg-chno="71" group-title="International" tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="71" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2021-01-06-104450.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104450.jpg" tvg-chno="71" group-title="DOCUMENTARY" tvg-name="NATIONAL GEOGRAPHIC",NATIONAL GEOGRAPHIC
 http://160.119.77.116:8081/iptv/hd-natgeo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="72" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg" tvg-chno="72" group-title="International" tvg-name="Discovery Asia",Discovery Asia
-https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 tvg-id="72" group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-060948.jpg",V Channel
+https://cdn6.goprimetime.info/feed/LC14/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-logo-small="http://thaiip.tv/tvlogo2/outdoor.jpg" tvg-logo="http://thaiip.tv/tvlogo2/outdoor.jpg" tvg-chno="73" group-title="International" tvg-name="OUTDOOR(JP)",OUTDOOR(JP)
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2020-11-03-015921.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-015921.jpg" tvg-chno="74" group-title="Thailand" tvg-name="PSI SARADEE(สาระดี)",PSI SARADEE(สาระดี)
@@ -277,7 +277,6 @@ https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-09-025204.jpg",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-http://203.154.177.124:8899/live/ch16/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-025036.jpg",MUSIC FOR YOU
 http://203.154.243.89:1213
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-08-071311.jpg",HD FASHION & LIFESTYLE
@@ -286,8 +285,6 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://592f16fa90d9b.streamlock.net/retrotv/smil:retrotv2.smil/chunklist_w772554622_b750000.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png",ATV(CH)
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-060948.jpg",V Channel
-https://cdn6.goprimetime.info/feed/LC14/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvtv-official-logo.png",12 MVTV
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvlao.jpg",13 MV Laos
@@ -328,11 +325,11 @@ https://brandusa-gousa-1-gb.samsung.wurl.com/manifest/3000.m3u8
 https://obsession-media.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://image.roku.com/developer_channels/prod/0b47af68c3826c1df7ae28d948f30d2d56ebef6404dd71430b20b872cd926266.png",Waypoint
 https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png",Thrill
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png",Thrill
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://www.m-channel.com/M/img/logo.png",M Channel
+#EXTINF:-1 group-title="Movies" tvg-logo="http://www.m-channel.com/M/img/logo.png",M Channel
 http://27.254.142.207:8080/live/web.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png",MIX Major
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mix-logo.png",MIX Major
 http://27.254.130.61/live01/ch19.m3u8?p=st
 #EXTINF:-1  tvg-id="TVB XING HE" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
 https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
