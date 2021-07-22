@@ -35,6 +35,8 @@ https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
 #EXTINF:-1  tvg-id="18" group-title="DTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png",JKN18
 https://cdnlive.goprimetime.info/feed/newtv/index.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo-small="http://thaiip.tv/tvlogo2/top.png" tvg-logo="http://thaiip.tv/tvlogo2/top.png" group-title="THAI Digital T" tvg-name="TOP NEWS",TOP NEWS
+https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo-small="http://thaiip.tv/tvlogo2/voicetv.png" tvg-logo="http://thaiip.tv/tvlogo2/voicetv.png" tvg-chno="20" group-title="THAI Digital TV" tvg-name="Voice TV",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="21"  tvg-logo="https://we-play.live/uploads/posters/-poster1602704474.jpeg" group-title="Variety",Fox Thai
