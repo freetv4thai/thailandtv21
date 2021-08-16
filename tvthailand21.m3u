@@ -6,7 +6,7 @@ http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1249643471.m3u8
 #EXTINF:-1  tvg-id="3" tvg-logo-small="http://thaiip.tv/tvlogo2/3.png" tvg-logo="http://thaiip.tv/tvlogo2/3.png" tvg-chno="3" group-title="THAI Digital TV" tvg-name="ไทย พีบีเอส",Thai PBS 3 HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo-small="http://thaiip.tv/tvlogo2/altv4.png" tvg-logo="http://thaiip.tv/tvlogo2/altv4.png" tvg-chno="4" group-title="THAI Digital TV" tvg-name="ALTV 4",ALTV 4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="5" group-title="THAI Digital TV" tvg-name="ช่อง 5",THAI 5 HD
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 tvg-id="6"  tvg-logo="http://thaiip.tv/tvlogo2/wch.png" tvg-chno="6" group-title="THAI Digital TV" tvg-name="White Channel",White Channel
@@ -24,7 +24,7 @@ http://live.boonniyom.tv:1935/live/bntvsd/playlist.m3u8
 #EXTINF:-1 tvg-id="12" tvg-chno="12" tvg-logo="http://thaiip.tv/tvlogo2/news1.png" group-title="THAI Digital TV" tvg-name="News1" ,News1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-id="13" group-title="THAI Digital TV" tvg-logo="http://thaiip.tv/tvlogo2/bluesky.png" tvg-name="Bluesky Channel",ฟ้าวันใหม่
-http://202.142.220.226:1935/bluesky/Livebluesky/chunklist_w2111545574.m3u8
+https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist_w185914801.m3u8
 #EXTINF:-1 tvg-id="14" tvg-chno="14" tvg-logo="http://thaiip.tv/tvlogo2/mvtv.png" group-title="THAI Digital TV" tvg-name="MVTV",MVTV
 https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w896738527.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="http://thaiip.tv/tvlogo2/ctb.png" group-title="THAI Digital TV" tvg-name="CTB",CTB
@@ -75,14 +75,14 @@ https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 http://27.254.130.62/feed/LC8/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png" tvg-chno="38",National Geographic EN
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" tvg-chno="39",National Geographic  Abu Dhabi
-http://admdn2.cdn.mangomolo.com:80/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AbuDhabiNatGeo.png" tvg-chno="39",National Geographic  Thai
+https://mediasv.online/live7f/hd-natgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDI6Mjk6MTYgQU0maGFzaF92YWx1ZT1CVXZMeERtcXI5MTIyV0kyS2pIVEpRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIwJmlkPWNoXzQ4OTc1&fbclid=IwAR3450SVxnX8ytluaJbn9gZO_U0pC7rr3-YVVlHjpAU5wqEMV1OFWLqRHPw
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" tvg-chno="40",Nat Geo Wild EN
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/320px-History_HD_Logo.svg.png" tvg-chno="41,History
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" tvg-chno="42",H2
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png" tvg-chno="43" ,Discovery Channel
 https://mediasv.online/tvchannel_x1/hd-discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDIxIDExOjQwOjU1IEFNJmhhc2hfdmFsdWU9b2VxWTM5WjdhRzN4N1JxK1pSNlV5dz09JnZhbGlkbWludXRlcz04NjQwMCZzdHJtX2xlbj0yNSZpZD1jaF8zNjIyNw==
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png" tvg-chno="44",Discovery Asia
