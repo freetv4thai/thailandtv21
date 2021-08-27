@@ -75,10 +75,10 @@ https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 http://27.254.130.62/feed/LC8/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png" tvg-chno="38",National Geographic EN
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://ngthai.com/app/themes/arun-amarin/dist/images/logo_ngthai.webp" tvg-chno="39",National Geographic  Thai
-https://mediasv.online/live7f/hd-natgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDI6Mjk6MTYgQU0maGFzaF92YWx1ZT1CVXZMeERtcXI5MTIyV0kyS2pIVEpRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIwJmlkPWNoXzQ4OTc1&fbclid=IwAR3450SVxnX8ytluaJbn9gZO_U0pC7rr3-YVVlHjpAU5wqEMV1OFWLqRHPw
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" tvg-chno="40",Nat Geo Wild EN
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" tvg-chno="39",Nat Geo Wild EN
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://logowik.com/content/uploads/images/national-geographic-wild.jpg" tvg-chno="40",Nat Geo Wild THAI
+https://mediasv.online/live7f/hd-natgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDI6Mjk6MTYgQU0maGFzaF92YWx1ZT1CVXZMeERtcXI5MTIyV0kyS2pIVEpRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIwJmlkPWNoXzQ4OTc1&fbclid=IwAR3450SVxnX8ytluaJbn9gZO_U0pC7rr3-YVVlHjpAU5wqEMV1OFWLqRHPw
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/320px-History_HD_Logo.svg.png" tvg-chno="41,History
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" tvg-chno="42",H2
@@ -103,12 +103,12 @@ https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/play
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-logo-small="http://thaiip.tv/tvlogo2/tech.png" tvg-logo="http://thaiip.tv/tvlogo2/tech.png" tvg-chno="52" group-title="THAI Digital TV" tvg-name="ETV",ETV
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="53" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2020-08-31-112504.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-112504.jpg" tvg-chno="53" group-title="THAI Digital TV" tvg-name="Amazing Show",!Amazing Show
-http://203.154.243.32:8088/live/amazing/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-logo-small="http://thaiip.tv/tvlogo2/cgtn.png" tvg-logo="http://thaiip.tv/tvlogo2/cgtn.png" tvg-chno="55" group-title="International" tvg-name="CGTN",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-logo-small="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/ba/f4/a4/baf4a4f9-6e47-c578-115f-84bb73ca1071/source/256x256bb.jpg" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/ba/f4/a4/baf4a4f9-6e47-c578-115f-84bb73ca1071/source/256x256bb.jpg" tvg-chno="54" group-title="International" tvg-name="CNN indonesia",CNN indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="55" tvg-logo-small="http://thaiip.tv/tvlogo2/cgtn.png" tvg-logo="http://thaiip.tv/tvlogo2/cgtn.png" tvg-chno="55" group-title="International" tvg-name="CGTN",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2020-08-31-112504.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-31-112504.jpg" tvg-chno="55" group-title="THAI Digital TV" tvg-name="Amazing Show",!Amazing Show
+http://203.154.243.32:8088/live/amazing/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-logo-small="http://thaiip.tv/tvlogo2/dw-en.png" tvg-logo="http://thaiip.tv/tvlogo2/dw-en.png" tvg-chno="56" group-title="International" tvg-name="DW Enlish",DW Enlish
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="57" tvg-logo-small="http://thaiip.tv/tvlogo2/dw-es.png" tvg-logo="http://thaiip.tv/tvlogo2/dw-es.png" tvg-chno="57" group-title="International" tvg-name="DW ESPAÑOL",DW ESPAÑOL
