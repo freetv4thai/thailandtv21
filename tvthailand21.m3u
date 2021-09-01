@@ -174,8 +174,8 @@ https://p0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=bjeNGNmMGIzZmFjNzhlOTAwOTAyNAOWVkN
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-013103.jpg",ALTV4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-013103.jpg",ALTV4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movies TV" tvg-logo="tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-19-092102.jpg",",Fox Action
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:-1  tvg-id="TPTV" group-title="Digital.TV" tvg-logo="https://i.imgur.com/Jrqo8JP.png",TPTV
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 #EXTINF:-1  tvg-id="DLTV 1" group-title="Digital.TV" tvg-logo="https://dltv.ac.th/upload/data/channels/01_channel_logo.png",DLTV1 ประถมศึกษาปีที่ 1
