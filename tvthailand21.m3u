@@ -105,8 +105,8 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="53" tvg-logo-small="http://thaiip.tv/tvlogo2/cgtn.png" tvg-logo="http://thaiip.tv/tvlogo2/cgtn.png" tvg-chno="55" group-title="International" tvg-name="CGTN",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="54" tvg-logo-small="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/ba/f4/a4/baf4a4f9-6e47-c578-115f-84bb73ca1071/source/256x256bb.jpg" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/ba/f4/a4/baf4a4f9-6e47-c578-115f-84bb73ca1071/source/256x256bb.jpg" tvg-chno="54" group-title="International" tvg-name="CNN indonesia",CNN indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="21"  tvg-logo="https://we-play.live/uploads/posters/-poster1602704474.jpeg" group-title="Variety",Fox Thai
+https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-logo-small="https://www.i-pic.info/i/nv2X67352.jpg" group-title="Variety" tvg-logo="https://raw.githubusercontent.com/freetv4thai/thailandtv21/main/Amazing.jpg" tvg-name="Amazing Show",Amazing Show
 http://203.154.243.32:8088/live/amazing/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-logo-small="http://thaiip.tv/tvlogo2/dw-en.png" tvg-logo="http://thaiip.tv/tvlogo2/dw-en.png" tvg-chno="56" group-title="International" tvg-name="DW Enlish",DW Enlish
@@ -165,7 +165,7 @@ http://stream.atr.ua/lale//live/index.m3u8
 https://doofootball.livestream-cdn.com/iptv/uk-nickjr.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="83" tvg-logo-small="http://thaiip.tv/tvlogo2/baan.png" tvg-logo="http://thaiip.tv/tvlogo2/baan.png" tvg-chno="83" group-title="Thailand" tvg-name="ไทบ้าน",ไทบ้าน
 https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1788449380.m3u8
-#EXTINF:-1 tvg-id="84" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png" tvg-chno="84" group-title="Variety" tvg-name="Star Chinese Movies",Star Chinese Movies
+#EXTINF:-1 tvg-id="84" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png" tvg-chno="84" group-title="Variety" tvg-name="Star Chinese Fs",Star Chinese Movies
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="85" tvg-logo-small="http://thaiip.tv/tvlogo2/warner.png" tvg-logo="http://thaiip.tv/tvlogo2/warner.png" tvg-chno="85" group-title="Variety" tvg-name="WarnerTV",WarnerTV
 
