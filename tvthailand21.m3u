@@ -1,14 +1,14 @@
-#EXTM3U : thaiip.tv(modified 22-07-21)
+#EXTM3U : thaiip.tv(modified 9-09-2021)
 ﻿#EXTINF:-1 tvg-id="1" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ททบ. 5",THAI 5
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
+http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist_w1270108552.m3u8
 #EXTINF:-1  tvg-id="2" tvg-logo-small="http://thaiip.tv/tvlogo2/2.png" tvg-logo="http://thaiip.tv/tvlogo2/2.png" tvg-chno="2" group-title="THAI Digital TV" tvg-name="NBT2",NBT 2
-http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1249643471.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
 #EXTINF:-1  tvg-id="3" tvg-logo-small="http://thaiip.tv/tvlogo2/3.png" tvg-logo="http://thaiip.tv/tvlogo2/3.png" tvg-chno="3" group-title="THAI Digital TV" tvg-name="ไทย พีบีเอส",Thai PBS 3 HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo-small="http://thaiip.tv/tvlogo2/altv4.png" tvg-logo="http://thaiip.tv/tvlogo2/altv4.png" tvg-chno="4" group-title="THAI Digital TV" tvg-name="ALTV 4",ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="5" group-title="THAI Digital TV" tvg-name="ช่อง 5",THAI 5 HD
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
+http://77.83.117.60:8888/02_5HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="6"  tvg-logo="http://thaiip.tv/tvlogo2/wch.png" tvg-chno="6" group-title="THAI Digital TV" tvg-name="White Channel",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo-small="http://thaiip.tv/tvlogo2/7.png" tvg-logo="http://thaiip.tv/tvlogo2/7.png" tvg-chno="7" group-title="THAI Digital TV" tvg-name="ช่อง 7",THAI 7HD
@@ -68,7 +68,7 @@ http://live2.dootvde.com/live/50001_ch3.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="34" tvg-logo-small="http://thaiip.tv/tvlogo2/34.png" tvg-logo="http://thaiip.tv/tvlogo2/34.png" tvg-chno="34" group-title="THAI Digital TV" tvg-name="Amarin TV",Amarin TV Thai HD
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="35" tvg-logo-small="http://thaiip.tv/tvlogo2/35.png" tvg-logo="http://thaiip.tv/tvlogo2/35.png" tvg-chno="35" group-title="THAI Digital TV" tvg-name="ช่อง7สี",THAI 7HD
-http://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 #EXTINF:-1 tvg-id="36" tvg-logo-small="http://thaiip.tv/tvlogo2/36.png" tvg-logo="http://thaiip.tv/tvlogo2/36.png" tvg-chno="36" group-title="THAI Digital TV" tvg-name="PPTV",PPTV HD
 https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg" tvg-chno="37",SAMRUJLOK
@@ -105,8 +105,8 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="53" tvg-logo-small="http://thaiip.tv/tvlogo2/cgtn.png" tvg-logo="http://thaiip.tv/tvlogo2/cgtn.png" tvg-chno="55" group-title="International" tvg-name="CGTN",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="21"  tvg-logo="https://we-play.live/uploads/posters/-poster1602704474.jpeg" group-title="Variety",Fox Thai
-https://laos-tech-live.b-cdn.net/sd-fox_720/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-logo-small="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/ba/f4/a4/baf4a4f9-6e47-c578-115f-84bb73ca1071/source/256x256bb.jpg" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/ba/f4/a4/baf4a4f9-6e47-c578-115f-84bb73ca1071/source/256x256bb.jpg" tvg-chno="54" group-title="International" tvg-name="CNN indonesia",CNN indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="55" tvg-logo-small="https://www.i-pic.info/i/nv2X67352.jpg" group-title="Variety" tvg-logo="https://raw.githubusercontent.com/freetv4thai/thailandtv21/main/Amazing.jpg" tvg-name="Amazing Show",Amazing Show
 http://203.154.243.32:8088/live/amazing/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-logo-small="http://thaiip.tv/tvlogo2/dw-en.png" tvg-logo="http://thaiip.tv/tvlogo2/dw-en.png" tvg-chno="56" group-title="International" tvg-name="DW Enlish",DW Enlish
@@ -165,7 +165,7 @@ http://stream.atr.ua/lale//live/index.m3u8
 https://doofootball.livestream-cdn.com/iptv/uk-nickjr.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="83" tvg-logo-small="http://thaiip.tv/tvlogo2/baan.png" tvg-logo="http://thaiip.tv/tvlogo2/baan.png" tvg-chno="83" group-title="Thailand" tvg-name="ไทบ้าน",ไทบ้าน
 https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1788449380.m3u8
-#EXTINF:-1 tvg-id="84" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png" tvg-chno="84" group-title="Variety" tvg-name="Star Chinese Fs",Star Chinese Movies
+#EXTINF:-1 tvg-id="84" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png" tvg-chno="84" group-title="Variety" tvg-name="Star Chinese Movies",Star Chinese Movies
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="85" tvg-logo-small="http://thaiip.tv/tvlogo2/warner.png" tvg-logo="http://thaiip.tv/tvlogo2/warner.png" tvg-chno="85" group-title="Variety" tvg-name="WarnerTV",WarnerTV
 
