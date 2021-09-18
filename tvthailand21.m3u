@@ -1,12 +1,12 @@
 #EXTM3U : thaiip.tv(modified 22-07-21)
 ﻿#EXTINF:-1 tvg-id="1" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ททบ. 5",THAI 5
-http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/chunklist_w1270108552.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
 #EXTINF:-1  tvg-id="2" tvg-logo-small="http://thaiip.tv/tvlogo2/2.png" tvg-logo="http://thaiip.tv/tvlogo2/2.png" tvg-chno="2" group-title="THAI Digital TV" tvg-name="NBT2",NBT 2
 https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
 #EXTINF:-1  tvg-id="3" tvg-logo-small="http://thaiip.tv/tvlogo2/3.png" tvg-logo="http://thaiip.tv/tvlogo2/3.png" tvg-chno="3" group-title="THAI Digital TV" tvg-name="ไทย พีบีเอส",Thai PBS 3 HD
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo-small="http://thaiip.tv/tvlogo2/altv4.png" tvg-logo="http://thaiip.tv/tvlogo2/altv4.png" tvg-chno="4" group-title="THAI Digital TV" tvg-name="ALTV 4",ALTV 4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8 
 #EXTINF:-1 tvg-id="5" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="5" group-title="THAI Digital TV" tvg-name="ช่อง 5",THAI 5 HD
 http://77.83.117.60:8888/02_5HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="6"  tvg-logo="http://thaiip.tv/tvlogo2/wch.png" tvg-chno="6" group-title="THAI Digital TV" tvg-name="White Channel",White Channel
@@ -88,15 +88,15 @@ https://mediasv.online/tvchannel_x1/hd-discovery/playlist.m3u8?wmsAuthSign=c2Vyd
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png" tvg-chno="44",Discovery Asia
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" tvg-chno="45" ,Animal Planet
-https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+http://178.175.132.170:8888/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://v3i.rweb-images.com/www.cabletv.co.th/images/logo/medium-1561096077593.png" tvg-chno="46" ,Chareon Channel
 http://27.254.130.62/feed/LC32/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://mma.prnewswire.com/media/1335349/Xplore_logo.jpg" tvg-chno="47",XPLORE
 https://xplore-roku.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" tvg-chno="48",Love Nature USA
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" tvg-chno="49",TLC US
-https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://www.nextsteptv.com/wp-content/uploads/2017/11/cropped-Untitled-1-01-1-3.png" chno="49",สำรวจโลก
+http://203.159.95.172:8081/live/explore/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.motorvision.tv/mv_tv_placeholder.jpg" tvg-chno="50",Motorvision TV
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png tvg-chno="51",Outdoor Channel
