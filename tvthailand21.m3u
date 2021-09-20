@@ -40,7 +40,7 @@ https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo-small="http://thaiip.tv/tvlogo2/voicetv.png" tvg-logo="http://thaiip.tv/tvlogo2/voicetv.png" tvg-chno="20" group-title="THAI Digital TV" tvg-name="Voice TV",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="21"  tvg-logo="https://we-play.live/uploads/posters/-poster1602704474.jpeg" group-title="Variety",Fox Thai
-http://178.175.132.170:8888/02_FoxThai_TH_720p/chunklist.m3u8
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/foxth/chunks.m3u8?nimblesessionid=19355110&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDIxIDEwOjA0OjM0IFBNJmhhc2hfdmFsdWU9TGRlTGxYbFEwa3huYnVIWGJlZEZUQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="22" tvg-logo-small="http://thaiip.tv/tvlogo2/22.png" tvg-logo="http://thaiip.tv/tvlogo2/22.png" tvg-chno="22" group-title="THAI Digital TV" tvg-name="NATION TV",NATION TV 22
 http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo-small="http://thaiip.tv/tvlogo2/23.png" tvg-logo="http://thaiip.tv/tvlogo2/23.png" tvg-chno="23" group-title="THAI Digital TV" tvg-name="WORK POINT",WORK POINT 23
