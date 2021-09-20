@@ -34,7 +34,7 @@ https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo-small="http://thaiip.tv/tvlogo2/m.png" tvg-logo="http://thaiip.tv/tvlogo2/m.png" tvg-chno="17" group-title="THAI Digital TV" tvg-name="M Channel",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
 #EXTINF:-1  tvg-id="18" group-title="THAI Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png",JKN18
-https://freelive.inwstream.com:1936/freelive-edge/newstv/playlist.m3u8
+http://host4.dynns.com/stream/0d01fdc1362f427ca5527c645f5f908f.m3u8
 #EXTINF:-1 tvg-id="19" tvg-logo-small="http://thaiip.tv/tvlogo2/top.png" tvg-logo="http://thaiip.tv/tvlogo2/top.png" group-title="THAI Digital TV" tvg-name="TOP NEWS",TOP NEWS
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo-small="http://thaiip.tv/tvlogo2/voicetv.png" tvg-logo="http://thaiip.tv/tvlogo2/voicetv.png" tvg-chno="20" group-title="THAI Digital TV" tvg-name="Voice TV",Voice TV
@@ -155,8 +155,8 @@ https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-id="78" tvg-logo-small="http://thaiip.tv/tvlogo2/news1.png" tvg-logo="http://thaiip.tv/tvlogo2/news1.png" tvg-chno="78" group-title="Thailand" tvg-name="News1",News1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1 tvg-id="79" tvg-logo-small="https://www.blueskychannel.tv/wp-content/uploads/2020/07/bluesky-logo.png" tvg-logo="https://www.blueskychannel.tv/wp-content/uploads/2020/07/bluesky-logo.png" tvg-chno="79" group-title="Thailand" tvg-name="BlueskyChannel",BlueskyChannel
-http://202.142.220.226:1935/bluesky/Livebluesky/chunklist_w2111545574.m3u8
+#EXTINF:-1 tvg-id="79" tvg-logo-small="https://scontent.fbkk12-3.fna.fbcdn.net/v/t1.18169-9/13729134_164848020602259_2102316270893568989_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=qzkZGP_B2D0AX_2ru_N&_nc_ht=scontent.fbkk12-3.fna&oh=e4f99f4cc15aada3604aaa982d5d01b4&oe=616DBC3B" tvg-logo="https://www.blueskychannel.tv/wp-content/uploads/2020/07/bluesky-logo.png" tvg-chno="79" group-title="Thailand" tvg-name="K-POP",K Pop Channel
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
 #EXTINF:-1 tvg-id="80" tvg-logo-small="https://img.meituan.net/csc/df949a136e7323841ed4837a30baed0228071.jpg" tvg-logo="https://img.meituan.net/csc/df949a136e7323841ed4837a30baed0228071.jpg" tvg-chno="80" group-title="Kids" tvg-name="EBS Kids TV",EBS Kids TV
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
 #EXTINF:-1 tvg-id="81" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2020-08-28-070550.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-28-070550.jpg" tvg-chno="81" group-title="Kids" tvg-name="Lale",Lale
