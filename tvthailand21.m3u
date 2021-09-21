@@ -168,6 +168,8 @@ https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1788449380.m3u8
 #EXTINF:-1 tvg-id="84" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png" tvg-chno="84" group-title="Variety" tvg-name="Star Chinese Movies TV",Star Chinese Movies TV
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="85" tvg-logo-small="http://thaiip.tv/tvlogo2/warner.png" tvg-logo="http://thaiip.tv/tvlogo2/warner.png" tvg-chno="85" group-title="Variety" tvg-name="WarnerTV",WarnerTV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg"  tvg-chno="86",สำรวจโลก
+http://203.159.95.172:8081/live/explore/playlist.m3u8
 
 https://p0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=bjeNGNmMGIzZmFjNzhlOTAwOTAyNAOWVkNjgxMmViMjEyNTg0
 #EXTINF:-1  tvg-id="Mono 29" group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
@@ -258,8 +260,6 @@ https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg",CCTV5+
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg",สำรวจโลก
-http://203.159.95.172:8081/live/explore/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cigars.roku.com/v1/contain/290x218/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-large-2.jpg",Tennis Plus 1
