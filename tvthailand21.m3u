@@ -167,8 +167,7 @@ https://doofootball.livestream-cdn.com/iptv/uk-nickjr.stream/chunks.m3u8
 https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1788449380.m3u8
 #EXTINF:-1 tvg-id="84" tvg-logo-small="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png" tvg-chno="84" group-title="Variety" tvg-name="Star Chinese Movies TV",Star Chinese Movies TV
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="85" tvg-logo-small="http://thaiip.tv/tvlogo2/warner.png" tvg-logo="http://thaiip.tv/tvlogo2/warner.png" tvg-chno="85" group-title="Variety" tvg-name="WarnerTV",WarnerTV
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg"  tvg-chno="86",สำรวจโลก
+#EXTINF:-1 tvg-id="85" group-title="Kids" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg" ,สำรวจโลก
 http://203.159.95.172:8081/live/explore/playlist.m3u8
 
 https://p0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=bjeNGNmMGIzZmFjNzhlOTAwOTAyNAOWVkNjgxMmViMjEyNTg0
