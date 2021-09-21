@@ -96,7 +96,7 @@ https://xplore-roku.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" tvg-chno="48",Love Nature USA
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://www.nextsteptv.com/wp-content/uploads/2017/11/cropped-Untitled-1-01-1-3.png" chno="49",สำรวจโลก
-http://203.159.95.172:8081/live/explore/playlist.m3u8
+https://cdn6.goprimetime.info/feed/202105171329/LC8/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.motorvision.tv/mv_tv_placeholder.jpg" tvg-chno="50",Motorvision TV
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png tvg-chno="51",Outdoor Channel
@@ -258,8 +258,8 @@ https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg",CCTV5+
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg",Fight Sports
-http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg",สำรวจโลก
+http://203.159.95.172:8081/live/explore/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cigars.roku.com/v1/contain/290x218/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/ad/AMwV/tennis-channel-plus-over-100-hours-large-2.jpg",Tennis Plus 1
@@ -270,7 +270,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8
 https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://overseer.blackboxsys.net/images/png/uk-skysports-news.png",Sky Sport News IT
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-
 #EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://image.roku.com/developer_channels/prod/83f9f0ddd6f6d0bd9394ab0b34fcc7daa84ea75a1b923b8872acdb36f26c034a.png",The Pet Collection
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Variety" tvg-logo="https://www.huntchannel.tv/wp-content/uploads/2020/02/Video-Title.png",Hunt Channel
