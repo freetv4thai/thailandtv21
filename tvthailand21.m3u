@@ -70,7 +70,7 @@ http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="35" tvg-logo-small="http://thaiip.tv/tvlogo2/35.png" tvg-logo="http://thaiip.tv/tvlogo2/35.png" tvg-chno="35" group-title="THAI Digital TV" tvg-name="ช่อง7สี",THAI 7HD
 https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 #EXTINF:-1 tvg-id="36" tvg-logo-small="http://thaiip.tv/tvlogo2/36.png" tvg-logo="http://thaiip.tv/tvlogo2/36.png" tvg-chno="36" group-title="THAI Digital TV" tvg-name="PPTV",PPTV HD
-https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg" tvg-chno="37",Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png" tvg-chno="38",National Geographic EN
