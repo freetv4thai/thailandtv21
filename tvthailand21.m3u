@@ -56,7 +56,7 @@ http://stream.rs.co.th/ch8-hi/index.m3u8
 #EXTINF:-1  tvg-id="28" tvg-logo-small="http://thaiip.tv/tvlogo2/boom.png" tvg-logo="http://thaiip.tv/tvlogo2/boom.png" tvg-chno="28" group-title= "KID" tvg-name="Boomerang",Boomerang
 http://27.254.130.62/feed/chboomberang/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="29" tvg-logo-small="http://thaiip.tv/tvlogo2/29.png" tvg-logo="http://thaiip.tv/tvlogo2/29.png" tvg-chno="29" group-title="THAI Digital TV" tvg-name="Mono29",MONO29 HD
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1988399235.m3u8
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_720P/mono29hls_720EN.stream/chunklist_w770786952.m3u8
 #EXTINF:-1 tvg-id="30" tvg-logo-small="http://thaiip.tv/tvlogo2/30.png" tvg-logo="http://thaiip.tv/tvlogo2/30.png" tvg-chno="30" group-title="THAI Digital TV" tvg-name="MCOT HD 30",MCOT HD 30
 https://freelive2.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
 #EXTINF:-1 tvg-id="31" tvg-logo-small="http://thaiip.tv/tvlogo2/31.png" tvg-logo="http://thaiip.tv/tvlogo2/31.png" tvg-chno="31" group-title="THAI Digital TV" tvg-name="One 31",GMM ONE HD
