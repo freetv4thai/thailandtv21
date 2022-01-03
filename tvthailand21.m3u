@@ -46,7 +46,7 @@ http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo-small="http://thaiip.tv/tvlogo2/23.png" tvg-logo="http://thaiip.tv/tvlogo2/23.png" tvg-chno="23" group-title="THAI Digital TV" tvg-name="WORK POINT",WORK POINT 23
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="24" tvg-logo-small="http://thaiip.tv/tvlogo2/24.png" tvg-logo="http://thaiip.tv/tvlogo2/24.png" tvg-chno="24" group-title="THAI Digital TV" tvg-name="True4u",True4u 24
-https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r2/true4u_480p/l_2748412_10050080_1938.ts?nimblesessionid=6199811&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyMSAzOjMyOjA3IFBNJmhhc2hfdmFsdWU9a0o0RDU3bjNjWkErTEUzNTdJczduZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI2JmlkPTExNzIyMg==
+http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8 
 #EXTINF:-1 tvg-id="25" tvg-logo-small="http://thaiip.tv/tvlogo2/25.png" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-chno="25" group-title="THAI Digital TV" tvg-name="GMM25",GMM25 Channel
 https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-logo-small="http://thaiip.tv/tvlogo2/cartoonclub.png" tvg-logo="http://thaiip.tv/tvlogo2/cartoonclub.png" tvg-chno="26" group-title="THAI Digital TV" tvg-name="CARTOON CLUB",CARTOON CLUB
