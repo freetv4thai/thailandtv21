@@ -152,7 +152,7 @@ https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/chunklist_w633022784.m3u8
 #EXTINF:-1 tvg-id="76" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg" group-title="Thailand",Discovery Asia (TH)
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 tvg-id="77" tvg-logo-small="http://thaiip.tv/tvlogo2/top.png" tvg-logo="http://thaiip.tv/tvlogo2/top.png" tvg-chno="77" group-title="Thailand" tvg-name="TOP NEWS",TOP NEWS
-https://live.topnews.co.th/hls/topnews.m3u8
+https://live.topnews.co.th/hls/topnews_a_1080.m3u8
 #EXTINF:-1 tvg-id="78" tvg-logo-small="http://thaiip.tv/tvlogo2/news1.png" tvg-logo="http://thaiip.tv/tvlogo2/news1.png" tvg-chno="78" group-title="Thailand" tvg-name="News1",News1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-id="79" tvg-logo-small="https://scontent.fbkk12-3.fna.fbcdn.net/v/t1.18169-9/13729134_164848020602259_2102316270893568989_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=qzkZGP_B2D0AX_2ru_N&_nc_ht=scontent.fbkk12-3.fna&oh=e4f99f4cc15aada3604aaa982d5d01b4&oe=616DBC3B" tvg-logo="https://www.blueskychannel.tv/wp-content/uploads/2020/07/bluesky-logo.png" tvg-chno="79" group-title="Thailand" tvg-name="K-POP",K Pop Channel
