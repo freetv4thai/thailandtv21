@@ -88,7 +88,7 @@ https://mediasv.online/tvchannel_x1/hd-discovery/playlist.m3u8?wmsAuthSign=c2Vyd
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png" tvg-chno="44",Discovery Asia
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" tvg-chno="45" ,Animal Planet
-http://178.175.132.170:8888/02_AnimalPlanet/chunklist.m3u8
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://v3i.rweb-images.com/www.cabletv.co.th/images/logo/medium-1561096077593.png" tvg-chno="46" ,Chareon Channel
 http://27.254.130.62/feed/LC32/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://mma.prnewswire.com/media/1335349/Xplore_logo.jpg" tvg-chno="47",XPLORE
@@ -245,14 +245,14 @@ https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/a1cf2e05-9abd-41a7-bc8f-0f1ecc202d3b.png",NBA TV
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/572924972104839168/QfSnx_Mu.png",Fox Sports News AU
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://cms.dmpcdn.com/livetv/2019/01/24/f93e6e1c-1fef-4e05-823b-912dea6a88a6.png",Fox Sports HD
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/21/a391c1cc-465b-4c91-bb2e-5488104ef5c8.png",Fox Sports 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://video.at712.com/wp-content/uploads/2019/03/Fox_Sports_3_001.png",Fox Sports 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i1.sndcdn.com/artworks-000270301463-9byhni-t500x500.jpg",Cable Movie 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist_w1127755900.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i1.sndcdn.com/artworks-000270301463-9byhni-t500x500.jpg",Cable Movie 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i1.sndcdn.com/artworks-000270301463-9byhni-t500x500.jpg",Cable Series 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i1.sndcdn.com/artworks-000270301463-9byhni-t500x500.jpg",Cable Series 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist_w1310036100.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV5
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5+.jpg",CCTV5+
