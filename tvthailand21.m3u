@@ -95,10 +95,10 @@ http://27.254.130.62/feed/LC32/index.m3u8
 https://xplore-roku.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" tvg-chno="48",Love Nature USA
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://www.nextsteptv.com/wp-content/uploads/2017/11/cropped-Untitled-1-01-1-3.png" chno="49",สำรวจโลก
-https://cdn6.goprimetime.info/feed/202105171329/LC8/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.motorvision.tv/mv_tv_placeholder.jpg" tvg-chno="50",Motorvision TV
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://www.motorvision.tv/mv_tv_placeholder.jpg" tvg-chno="49",Motorvision TV
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="50" group-title="Documentary" tvg-logo="https://sv1.picz.in.th/images/2021/08/17/2HTU7l.jpg",Animal
+http://916309128f3e.sn.mynetname.net:1935/aslive/news1/chunklist_Fuso_Uhd.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png tvg-chno="51",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-logo-small="http://thaiip.tv/tvlogo2/tech.png" tvg-logo="http://thaiip.tv/tvlogo2/tech.png" tvg-chno="52" group-title="THAI Digital TV" tvg-name="ETV",ETV
