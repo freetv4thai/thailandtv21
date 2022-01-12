@@ -46,7 +46,7 @@ http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-logo-small="http://thaiip.tv/tvlogo2/23.png" tvg-logo="http://thaiip.tv/tvlogo2/23.png" tvg-chno="23" group-title="THAI Digital TV" tvg-name="WORK POINT",WORK POINT 23
 http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="24" tvg-logo-small="http://thaiip.tv/tvlogo2/24.png" tvg-logo="http://thaiip.tv/tvlogo2/24.png" tvg-chno="24" group-title="THAI Digital TV" tvg-name="True4u",True4u 24
-http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8 
+https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
 #EXTINF:-1 tvg-id="25" tvg-logo-small="http://thaiip.tv/tvlogo2/25.png" tvg-logo="http://thaiip.tv/tvlogo2/25.png" tvg-chno="25" group-title="THAI Digital TV" tvg-name="GMM25",GMM25 Channel
 https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-logo-small="http://thaiip.tv/tvlogo2/cartoonclub.png" tvg-logo="http://thaiip.tv/tvlogo2/cartoonclub.png" tvg-chno="26" group-title="THAI Digital TV" tvg-name="CARTOON CLUB",CARTOON CLUB
@@ -207,8 +207,8 @@ https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
 https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
 #EXTINF:-1  tvg-id="DLTV 15" group-title="Digital.TV" tvg-logo="https://dltv.ac.th/upload/data/channels/15_channel_logo.png",DLTV15 ภาษาต่างประเทศ
 https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
-#EXTINF:-1  tvg-id="ETV" group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/3/35/ETV_Logo.jpg",ETV SD
-http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="16" tvg-logo-small="http://thaiip.tv/tvlogo2/24.png" tvg-logo="http://thaiip.tv/tvlogo2/24.png" tvg-chno="24" group-title="THAI Digital TV" tvg-name="True4u",True4u 24
+http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein1.png",Bein Sport EPL1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.img01.xyz/assets/img/ch_logo/epl-bein2.png",Bein Sport EPL2
