@@ -169,8 +169,8 @@ https://edge6a.v2h-cdn.com/appt3/Thaiban.stream_360p/chunklist_w1788449380.m3u8
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="85" group-title="Kids" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg" ,สำรวจโลก
 http://203.159.95.172:8081/live/explore/playlist.m3u8
-#EXTINF:-1  tvg-id="Mono 29" group-title="Digital.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",MONO29
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:-1  tvg-id="Tsport" group-title="SPORTS" tvg-logo="http://www.tsportschannel.com/Images/program/1587708307835.jpg",Tsport Channel
+https://www.livedoomovie.com:4431/02_T_Sports_480p/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Digital.TV" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-013103.jpg",ALTV4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Movies TV" tvg-logo="tvg-logo="https://il.mahidol.ac.th/upload/img/2021-05-19-092102.jpg",",Fox Action
