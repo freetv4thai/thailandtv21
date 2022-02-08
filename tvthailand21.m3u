@@ -88,7 +88,7 @@ https://mediasv.online/tvchannel_x1/hd-discovery/playlist.m3u8?wmsAuthSign=c2Vyd
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png" tvg-chno="44",Discovery Asia
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" tvg-chno="45" ,Animal Planet
-https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+https://www.livedoomovie.com:4431/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://v3i.rweb-images.com/www.cabletv.co.th/images/logo/medium-1561096077593.png" tvg-chno="46" ,Chareon Channel
 http://27.254.130.62/feed/LC32/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://mma.prnewswire.com/media/1335349/Xplore_logo.jpg" tvg-chno="47",XPLORE
