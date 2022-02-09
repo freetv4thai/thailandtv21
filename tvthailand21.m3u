@@ -73,8 +73,8 @@ https://freelive2.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2017/07/cropped-cropped-Samrulok_logo_on_top_edit.jpg" tvg-chno="37",Wild Earth
 https://wildearth-roku.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cms.dmpcdn.com/livetv/2018/01/18/c9963ddf-818d-4d8b-abe6-c87604ba2f1e.png" tvg-chno="38",National Geographic EN
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Entertain" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-xzyte.png" tvg-chno="38",X-Zyted
+https://edge-s1.onlineprostream.com:460/hmcb4rf66f-th1/hd-xzyte_720/l_6513070_10807423_1801.ts?nimblesessionid=4475910&wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjIgODoyMDo1NyBBTSZoYXNoX3ZhbHVlPTI1NUFmRW9ZaWMyY2pQVUc0eUxOUnc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNyZpZD05MTc4MDY3fGh0dHBzOi8vZG9vYmFsbDY2LmNvbS98TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk3LjAuNDY5Mi45OSBTYWZhcmkvNTM3LjM2fDE2NDQzOTQ4NTd8aGQteHp5dGVfNzIwfDkxNzgwNjd8NDkuMjI4LjY4LjIwNg==https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" tvg-chno="39",Nat Geo Wild EN
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://logowik.com/content/uploads/images/national-geographic-wild.jpg" tvg-chno="40",Nat Geo Wild THAI
@@ -146,7 +146,7 @@ https://cdn6.goprimetime.info/feed/LC14/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-logo-small="http://thaiip.tv/tvlogo2/outdoor.jpg" tvg-logo="http://thaiip.tv/tvlogo2/outdoor.jpg" tvg-chno="73" group-title="International" tvg-name="OUTDOOR(JP)",OUTDOOR(JP)
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="74" tvg-logo-small="https://il.mahidol.ac.th/upload/img/2020-11-03-015921.jpg" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-03-015921.jpg" tvg-chno="74" group-title="Thailand" tvg-name="PSI SARADEE(สาระดี)",PSI SARADEE(สาระดี)
-http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+https://61022bdc19cd4.streamlock.net/edgelivepsi/PSIHD.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="75" tvg-logo-small="http://thaiip.tv/tvlogo2/v2h9.png" tvg-logo="http://thaiip.tv/tvlogo2/v2h9.png" tvg-chno="75" group-title="Thailand" tvg-name="v2h9",v2h9
 https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/chunklist_w633022784.m3u8
 #EXTINF:-1 tvg-id="76" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083429.jpg" group-title="Thailand",Discovery Asia (TH)
