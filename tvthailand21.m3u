@@ -1,6 +1,6 @@
 #EXTM3U : thaiip.tv(modified 22-07-21)
 ﻿#EXTINF:-1 tvg-id="1" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ททบ. 5",THAI 5
-http://live2.dootvde.com/live/50002_ch5.stream.smil/playist.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
 #EXTINF:-1  tvg-id="2" tvg-logo-small="http://thaiip.tv/tvlogo2/2.png" tvg-logo="http://thaiip.tv/tvlogo2/2.png" tvg-chno="2" group-title="THAI Digital TV" tvg-name="NBT2",NBT 2
 https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
 #EXTINF:-1  tvg-id="3" tvg-logo-small="http://thaiip.tv/tvlogo2/3.png" tvg-logo="http://thaiip.tv/tvlogo2/3.png" tvg-chno="3" group-title="THAI Digital TV" tvg-name="ไทย พีบีเอส",Thai PBS 3 HD
