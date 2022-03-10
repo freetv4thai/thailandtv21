@@ -1,6 +1,6 @@
 #EXTM3U : thaiip.tv(modified 22-07-21)
 ﻿#EXTINF:-1 tvg-id="1" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ททบ. 5",THAI 5
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
+https://p0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=cjeYmE4Njg0OThjOWVkZDkyNjBhMgMWY5NjllZmM0NGVmNTNk
 #EXTINF:-1  tvg-id="2" tvg-logo-small="http://thaiip.tv/tvlogo2/2.png" tvg-logo="http://thaiip.tv/tvlogo2/2.png" tvg-chno="2" group-title="THAI Digital TV" tvg-name="NBT2",NBT 2
 https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
 #EXTINF:-1  tvg-id="3" tvg-logo-small="http://thaiip.tv/tvlogo2/3.png" tvg-logo="http://thaiip.tv/tvlogo2/3.png" tvg-chno="3" group-title="THAI Digital TV" tvg-name="ไทย พีบีเอส",Thai PBS 3 HD
@@ -30,7 +30,7 @@ https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w896738527.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="http://thaiip.tv/tvlogo2/ctb.png" group-title="THAI Digital TV" tvg-name="CTB",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 tvg-id="16" tvg-logo-small="http://thaiip.tv/tvlogo2/16.png" tvg-logo="http://thaiip.tv/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN",TNN 16 HD
-https://tnnthailand-1mertz.cdn.byteark.com/live/pl_720p/index.m3u8?x_ark_access_id=fleet-1891&x_ark_auth_type=ark-v2&x_ark_expires=1646743209&x_ark_path_prefix=%2Flive%2F&x_ark_signature=AYTBRqXUHo2aIoQq47uzLg
+https://edge-s1.onlineprostream.com:460/hmcb4rf66f-th1/sd-tnn24_480/chunks.m3u8?nimblesessionid=5179956&wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIyIDY6MDE6MTQgUE0maGFzaF92YWx1ZT0zM2lWMHNKdDVzZkpxdlhBL1NENmJBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjcmaWQ9ODEyMzc5OXxodHRwczovL2Rvb2JhbGw2Ni5jb20vfE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojk4LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvOTguMHwxNjQ2OTM1Mjc0fHNkLXRubjI0XzQ4MHw4MTIzNzk5fDE4NC4yMi4yMTYuNDU=
 #EXTINF:-1 tvg-id="17" tvg-logo-small="http://thaiip.tv/tvlogo2/m.png" tvg-logo="http://thaiip.tv/tvlogo2/m.png" tvg-chno="17" group-title="THAI Digital TV" tvg-name="M Channel",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
 #EXTINF:-1  tvg-id="18" group-title="THAI Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png",JKN18
