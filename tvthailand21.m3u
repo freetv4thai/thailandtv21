@@ -30,7 +30,7 @@ https://edge6a.v2h-cdn.com/appt4/MVTV75.stream_720p/chunklist_w896738527.m3u8
 #EXTINF:-1 tvg-id="15" tvg-logo="http://thaiip.tv/tvlogo2/ctb.png" group-title="THAI Digital TV" tvg-name="CTB",CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1 tvg-id="16" tvg-logo-small="http://thaiip.tv/tvlogo2/16.png" tvg-logo="http://thaiip.tv/tvlogo2/16.png" tvg-chno="16" group-title="THAI Digital TV" tvg-name="TNN",TNN 16 HD
-https://www.livedoomovies.com:4431/02_TNN24_480p/chunklist.m3u8
+https://freelive.inwstream.com:1936/freelive-edge/tnn24/chunks.m3u8?nimblesessionid=267879433
 #EXTINF:-1 tvg-id="17" tvg-logo-small="http://thaiip.tv/tvlogo2/m.png" tvg-logo="http://thaiip.tv/tvlogo2/m.png" tvg-chno="17" group-title="THAI Digital TV" tvg-name="M Channel",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w1568234806.m3u8
 #EXTINF:-1  tvg-id="18" group-title="THAI Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Jkn18.png",JKN18
@@ -89,8 +89,8 @@ https://mediasv.online/tvchannel_x1/hd-discovery/playlist.m3u8?wmsAuthSign=c2Vyd
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" tvg-chno="45" ,Animal Planet
 https://www.livedoomovie.com:4431/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://v3i.rweb-images.com/www.cabletv.co.th/images/logo/medium-1561096077593.png" tvg-chno="46" ,Chareon Channel
-http://27.254.130.62/feed/LC32/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-logo-small="http://thaiip.tv/tvlogo2/16.png" tvg-logo="http://thaiip.tv/tvlogo2/16.png" tvg-chno="46" group-title="THAI Digital TV" tvg-name="TNN",TNN 16 HD
+https://www.livedoomovies.com:4431/02_TNN24_480p/chunklist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://mma.prnewswire.com/media/1335349/Xplore_logo.jpg" tvg-chno="47",XPLORE
 https://xplore-roku.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" tvg-chno="48",Love Nature USA
