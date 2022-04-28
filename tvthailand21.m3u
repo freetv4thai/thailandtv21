@@ -1,6 +1,6 @@
 #EXTM3U : thaiip.tv(modified 22-07-21)
 ﻿#EXTINF:-1 tvg-id="1" tvg-logo-small="http://thaiip.tv/tvlogo2/1.png" tvg-logo="http://thaiip.tv/tvlogo2/1.png" tvg-chno="1" group-title="THAI Digital TV" tvg-name="ททบ. 5",THAI 5
-https://edge-s1.onlineprostream.com:460/hmcb4rf66f-th1/hd-ch5_720/chunks.m3u8?nimblesessionid=5906575&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIyIDE6NDk6NTIgUE0maGFzaF92YWx1ZT1ZRnFkZkNxK2U1TllaVUkza1RLOUlBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjUmaWQ9OTQ2MTI5MHxodHRwczovL2Rvb2JhbGw2Ni5jb20vfE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDAuMC40ODk2LjEyNyBTYWZhcmkvNTM3LjM2fDE2NTEwNjczOTJ8aGQtY2g1XzcyMHw5NDYxMjkwfDQ5LjIyOC43MS4yMTg=
+https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
 #EXTINF:-1  tvg-id="2" tvg-logo-small="http://thaiip.tv/tvlogo2/2.png" tvg-logo="http://thaiip.tv/tvlogo2/2.png" tvg-chno="2" group-title="THAI Digital TV" tvg-name="NBT2",NBT 2
 https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
 #EXTINF:-1  tvg-id="3" tvg-logo-small="http://thaiip.tv/tvlogo2/3.png" tvg-logo="http://thaiip.tv/tvlogo2/3.png" tvg-chno="3" group-title="THAI Digital TV" tvg-name="ไทย พีบีเอส",Thai PBS 3 HD
