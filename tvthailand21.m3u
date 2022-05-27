@@ -108,8 +108,8 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="54" tvg-logo-small="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/ba/f4/a4/baf4a4f9-6e47-c578-115f-84bb73ca1071/source/256x256bb.jpg" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/ba/f4/a4/baf4a4f9-6e47-c578-115f-84bb73ca1071/source/256x256bb.jpg" tvg-chno="54" group-title="International" tvg-name="CNN indonesia",CNN indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1649997259_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="55" tvg-logo-small="http://thaiip.tv/tvlogo2/cgtn.png" tvg-logo="http://thaiip.tv/tvlogo2/cgtn.png" tvg-chno="55" group-title="International" tvg-name="CGTN",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-logo-small="https://overseer.blackboxsys.net/images/png/hd-tfilm2.png" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-tfilm2.png" tvg-chno="55" group-title="Entertainment" tvg-name="True FilmHD2",True FilmHD2
+https://edge-s1.onlineprostream.com:460/hmcb4rf66f-th1/hd-tfilm2_720/chunks.m3u8?nimblesessionid=494497&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNy8yMDIyIDY6MTk6NDYgUE0maGFzaF92YWx1ZT1oeTR0MnJQSUxxL3NmUGRDZEI1RlpnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjgmaWQ9MjM5MzUxNHxodHRwczovL2Rvb2JhbGw2Ni5jb20vfE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMDIuMC41MDA1LjYzIFNhZmFyaS81MzcuMzZ8MTY1MzY3NTU4NnxoZC10ZmlsbTJfNzIwfDIzOTM1MTR8NDkuMjI4LjcwLjE3Nw==
 #EXTINF:-1 tvg-id="56" tvg-logo-small="http://thaiip.tv/tvlogo2/dw-en.png" tvg-logo="http://thaiip.tv/tvlogo2/dw-en.png" tvg-chno="56" group-title="International" tvg-name="DW Enlish",DW Enlish
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="57" tvg-logo-small="http://thaiip.tv/tvlogo2/dw-es.png" tvg-logo="http://thaiip.tv/tvlogo2/dw-es.png" tvg-chno="57" group-title="International" tvg-name="DW ESPAÑOL",DW ESPAÑOL
