@@ -747,8 +747,8 @@ https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.
 https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TruePremierFootballHD1.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png"  group-title="Sports",True Premier Football HD 1 [thanks: พรเขต แก้วเผือก]
-https://bit.ly/3smVdg3
+#EXTINF:-1 tvg-id="animalplanet TH" tvg-name=": ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d35b4c918eee7e24b511a6ac18d82d68.png" group-title="UK",UK: ANIMAL PLANET HD
+https://www.livedoomovies.com:4431/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootballHD2.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png"  group-title="Sports",True sport 2 [thanks: พรเขต แก้วเผือก]
 https://bit.ly/3KSxfjj
 #EXTINF:-1 tvg-id="TruePremierFootballHD3.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png"  group-title="Sports",True Premier Football HD 3 [thanks: พรเขต แก้วเผือก]
