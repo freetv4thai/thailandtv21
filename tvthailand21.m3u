@@ -257,10 +257,8 @@ https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Kid" tvg-logo="https://sv1.picz.in.th/images/2021/09/03/CTAJaD.jpg",Nick Jr. Dora TV
 https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
-
 #EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="N/A",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-
 #EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",GOOD TV
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV1
@@ -274,84 +272,6 @@ http://live.streamingfast.net/osmflivech7.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV8
 http://live.streamingfast.net/osmflivech8.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-12-02-082759.jpg",CH-GOOD TV10
-http://live.streamingfast.net/osmflivech10.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn" status="online",CCTV-1综合 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2.cn" status="online",CCTV-2财经 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3.cn" status="online",CCTV-3综艺 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-id="" status="online",CCTV-4中文国际 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5.cn" status="online",CCTV-5体育 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-id="CCTV6.cn" status="online",CCTV-6电影 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 tvg-id="CCTV7.cn" status="online",CCTV-7国防军事 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8.cn" status="online",CCTV-8电视剧 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 tvg-id="CCTV9.cn" status="online",CCTV-9纪录 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 tvg-id="CCTV10.cn" status="online",CCTV-10科教 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
-#EXTINF:-1 tvg-id="CCTV11.cn" status="online",CCTV-11戏曲 (1080p)
-http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-id="CCTV12.cn" status="online",CCTV-12社会与法制 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
-
-#EXTINF:-1 tvg-id="MBCTV.kr" status="error",MBC (1080p)
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSTV.kr" status="online",CBS (1080p)
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",CJB청주방송 (SBS 淸州) (540p) [Not 24/7]
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 ,CGTN 1, CGTN Español
-https://list.iptvcat.com/my_list/s/e34b96fb87f9fe043ff7bf6479f1dd3d.m3u8
-
-#EXTINF:-1 tvg-id="Channel5Singapore.sg" status="blocked",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8
-#EXTINF:-1 tvg-id="Channel8Singapore.sg" status="blocked",Channel 8 
-https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg",JP-NTV News24
-https://www.news24.jp/livestream/index.m3u8?checkedby:hlscat.com
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX1
-https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Tokyo MX2
-https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_JP-KR_Pro_Wrestling_Logo_2.svg/480px-New_JP-KR_Pro_Wrestling_Logo_2.svg.png",NJPW World(การ์ตูน)
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:hlscat.com
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png",Weather News
-https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/tYZz5CC.png",WeatherNews
-http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?checkedby:hlscat.com
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/9VXxnlo.png",WeatherNews-ウェザーニュース
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png",NHK General
-http://203.162.235.41:16903
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="http://thaiip.tv/tvlogo2/nhk.png",NHK World Premium
-http://203.162.235.41:16901
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/XoDOeDW.png",Tokyo - Narita Airport
-http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://img.JP-KRet.co.jp/shopping/img/senqua/header/logo.gif",!JP-ジャパネットチャンネルDX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRED4q0h589eD4JqRRdOnUnD3PFEWM07NGqh8CfuM7bh9Q_KV_r2MTs17tA&s=10",BS Asahi
-http://203.162.235.41:16914
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRv2P3i5GJEbDGq91Sq8UQ_eawem5KzkBqkVx3qJ9dQg5pixmi&usqp=CAU",BS Fuji
-http://203.162.235.41:16911
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/320px-BS4_logo.svg.png",!BS NTV
-http://203.162.235.41:16912
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://i.imgur.com/967Ud6N.png",MBS
-http://203.162.235.41:16910
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSu89C3UmQsQiIgGLbiHfxfHHgvUGF63wPqkGDj88suHRVWwwfK&usqp=CAU",NJPW World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdEVI6-GzViLGrTPM2EGbiieZrc2PWl_1tPxSi1lWvvH7AUMCx&usqp=CAU",Nippon TV
-http://203.162.235.41:16905
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg",!JP-KRet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="CH-JP-KR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaomd2uhu1cxIkhNqBtmvQDOwFbnybEtQYq_ghcuFcSFvupHmC&usqp=CAU",QVC JP-KR
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-
 #EXTINF:-1 tvg-id="ASTVNews1.th" tvg-country="TH" tvg-language="Thai" tvg-logo="" group-title="Local",ASTV News 1 (720p)
 http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="Channel7.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="",Channel 7 (240p)
@@ -366,8 +286,6 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/playli
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="TPTV.th" tvg-country="TH" tvg-language="Thai" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" group-title="",TPTV (286p)
 https://cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="TruePremierFootballHD1.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png"  group-title="Sports",True Premier Football HD 1 (720p) [Not 24/7]
 https://smart-tv.livedoomovie.com:4431/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootballHD2.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png"  group-title="Sports",True Premier Football HD 2 (720p) [Not 24/7]
@@ -407,7 +325,6 @@ https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8
 http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-id="WhiteChannel.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/lK52fpm.png" group-title="",White Channel (1080p)
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sports",Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -707,9 +624,7 @@ https://freelive.inwstream.com:1936/freelive-edge/thaipbs/playlist.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://i.imgur.com/Jrqo8JP.png",TPTV
 https://freelive.inwstream.com:1936/freelive-edge/tptv/playlist.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-tnn24.png",TNN 16
-https://freelive.inwstream.com:1936/freelive-edge/tnn24/playlist.m3u8
-#EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-new.png",NEW TV
-https://freelive.inwstream.com:1936/freelive-edge/newstv/playlist.m3u8
+
 #EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-nation.png",NATION TV
 https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-workpoint.png"",WORK POINT
