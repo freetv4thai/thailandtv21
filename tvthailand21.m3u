@@ -628,7 +628,7 @@ https://freelive.inwstream.com:1936/freelive-edge/tptv/playlist.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-nation.png",NATION TV
 https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-workpoint.png"",WORK POINT
-https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115825
 #EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-24u.png",True4u
 https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
 #EXTINF:-1 group-title=""tvg-logo="https://center.beinsport.biz//assets/images/channel_new/sd-gmmchannel.png",GMM25
