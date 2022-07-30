@@ -66,7 +66,7 @@ http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-logo-small="http://thaiip.tv/tvlogo2/33.png" tvg-logo="http://thaiip.tv/tvlogo2/33.png" tvg-chno="33" group-title="THAI Digital TV" tvg-name="ไทยทีวีสีช่อง 3",THAI 33 HD
 https://freelive2.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 #EXTINF:-1 tvg-id="34" tvg-logo-small="http://thaiip.tv/tvlogo2/34.png" tvg-logo="http://thaiip.tv/tvlogo2/34.png" tvg-chno="34" group-title="THAI Digital TV" tvg-name="Amarin TV",Amarin♂HD
-https://freelive.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8?nimblesessionid=364881201
+https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
 #EXTINF:-1 tvg-id="35" tvg-logo-small="http://thaiip.tv/tvlogo2/35.png" tvg-logo="http://thaiip.tv/tvlogo2/35.png" tvg-chno="35" group-title="THAI Digital TV" tvg-name="ช่อง7สี",THAI 7HD
 https://freelive2.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 #EXTINF:-1 tvg-id="36" tvg-logo-small="http://thaiip.tv/tvlogo2/36.png" tvg-logo="http://thaiip.tv/tvlogo2/36.png" tvg-chno="36" group-title="THAI Digital TV" tvg-name="PPTV",PPTV HD
