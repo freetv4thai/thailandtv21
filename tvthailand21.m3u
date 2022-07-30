@@ -123,8 +123,8 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1584163574_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="62" tvg-logo-small="http://thaiip.tv/tvlogo2/bbc.png" tvg-logo="http://thaiip.tv/tvlogo2/bbc.png" tvg-chno="62" group-title="International" tvg-name="BBC World News",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="63" tvg-logo-small="http://thaiip.tv/tvlogo2/sky.png" tvg-logo="http://thaiip.tv/tvlogo2/sky.png" tvg-chno="63" group-title="International" tvg-name="Sky News",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/06.m3u8
+#EXTINF:-1 tvg-id="63" tvg-logo-small="https://www.blueskychannel.tv/wp-content/uploads/2020/07/bluesky-logo.png" tvg-logo="https://www.blueskychannel.tv/wp-content/uploads/2020/07/bluesky-logo.png" tvg-chno="79" group-title="Thailand" tvg-name="BlueskyChannel",BlueskyChannel
+https://livesd.us.malimarcdn.com/thliveedge00/bluesky.stream/playlist.m3u8?verify=1659224112_S0uYRSw%2Fg8GkWcp80YjCq%2FOq0Ol0p9x2idiN3kxp104%3D
 #EXTINF:-1 tvg-id="64" tvg-logo-small="http://thaiip.tv/tvlogo2/f24e.png" tvg-logo="http://thaiip.tv/tvlogo2/f24e.png" tvg-chno="64" group-title="International" tvg-name="France 24 (ENG)",France 24 (ENG)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="65" tvg-logo-small="http://thaiip.tv/tvlogo2/happy.png" tvg-logo="http://thaiip.tv/tvlogo2/happy.png" tvg-chno="65" group-title="Thailand" tvg-name="HappyTV",HappyTV
